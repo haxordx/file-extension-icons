@@ -1,0 +1,2429 @@
+@font-face {
+  font-family: 'seti';
+  src: url('/styles/_fonts/seti/seti.eot');
+  src: url('/styles/_fonts/seti/seti.eot?#iefix') format('eot'), url('/styles/_fonts/seti/seti.woff') format('woff'), url('/styles/_fonts/seti/seti.ttf') format('truetype'), url('/styles/_fonts/seti/seti.svg#seti') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.icon-base-pseudo,
+.icon-R:before,
+.icon-apple:before,
+.icon-argdown:before,
+.icon-asm:before,
+.icon-audio:before,
+.icon-babel:before,
+.icon-bower:before,
+.icon-bsl:before,
+.icon-c-sharp:before,
+.icon-c:before,
+.icon-cake:before,
+.icon-cake_php:before,
+.icon-checkbox-unchecked:before,
+.icon-checkbox:before,
+.icon-cjsx:before,
+.icon-clock:before,
+.icon-clojure:before,
+.icon-code-climate:before,
+.icon-coffee:before,
+.icon-coffee_erb:before,
+.icon-coldfusion:before,
+.icon-config:before,
+.icon-cpp:before,
+.icon-crystal:before,
+.icon-crystal_embedded:before,
+.icon-css:before,
+.icon-csv:before,
+.icon-d:before,
+.icon-dart:before,
+.icon-db:before,
+.icon-default:before,
+.icon-deprecation-cop:before,
+.icon-docker:before,
+.icon-editorconfig:before,
+.icon-ejs:before,
+.icon-elixir:before,
+.icon-elixir_script:before,
+.icon-elm:before,
+.icon-error:before,
+.icon-eslint:before,
+.icon-ethereum:before,
+.icon-f-sharp:before,
+.icon-favicon:before,
+.icon-firebase:before,
+.icon-firefox:before,
+.icon-folder:before,
+.icon-font:before,
+.icon-git:before,
+.icon-git_folder:before,
+.icon-git_ignore:before,
+.icon-github:before,
+.icon-go:before,
+.icon-go2:before,
+.icon-gradle:before,
+.icon-grails:before,
+.icon-graphql:before,
+.icon-grunt:before,
+.icon-gulp:before,
+.icon-hacklang:before,
+.icon-haml:before,
+.icon-happenings:before,
+.icon-haskell:before,
+.icon-haxe:before,
+.icon-heroku:before,
+.icon-hex:before,
+.icon-html:before,
+.icon-html_erb:before,
+.icon-ignored:before,
+.icon-illustrator:before,
+.icon-image:before,
+.icon-info:before,
+.icon-ionic:before,
+.icon-jade:before,
+.icon-java:before,
+.icon-javascript:before,
+.icon-jenkins:before,
+.icon-jinja:before,
+.icon-js_erb:before,
+.icon-json:before,
+.icon-julia:before,
+.icon-karma:before,
+.icon-kotlin:before,
+.icon-less:before,
+.icon-license:before,
+.icon-liquid:before,
+.icon-livescript:before,
+.icon-lock:before,
+.icon-lua:before,
+.icon-makefile:before,
+.icon-markdown:before,
+.icon-maven:before,
+.icon-mdo:before,
+.icon-mustache:before,
+.icon-new-file:before,
+.icon-npm:before,
+.icon-npm_ignored:before,
+.icon-nunjucks:before,
+.icon-ocaml:before,
+.icon-odata:before,
+.icon-pddl:before,
+.icon-pdf:before,
+.icon-perl:before,
+.icon-photoshop:before,
+.icon-php:before,
+.icon-plan:before,
+.icon-platformio:before,
+.icon-powershell:before,
+.icon-project:before,
+.icon-pug:before,
+.icon-puppet:before,
+.icon-python:before,
+.icon-rails:before,
+.icon-react:before,
+.icon-reasonml:before,
+.icon-rollup:before,
+.icon-ruby:before,
+.icon-rust:before,
+.icon-salesforce:before,
+.icon-sass:before,
+.icon-sbt:before,
+.icon-scala:before,
+.icon-search:before,
+.icon-settings:before,
+.icon-shell:before,
+.icon-slim:before,
+.icon-smarty:before,
+.icon-spring:before,
+.icon-stylelint:before,
+.icon-stylus:before,
+.icon-sublime:before,
+.icon-svg:before,
+.icon-swift:before,
+.icon-terraform:before,
+.icon-tex:before,
+.icon-time-cop:before,
+.icon-todo:before,
+.icon-tsconfig:before,
+.icon-twig:before,
+.icon-typescript:before,
+.icon-vala:before,
+.icon-video:before,
+.icon-vue:before,
+.icon-wasm:before,
+.icon-wat:before,
+.icon-webpack:before,
+.icon-wgt:before,
+.icon-windows:before,
+.icon-word:before,
+.icon-xls:before,
+.icon-xml:before,
+.icon-yarn:before,
+.icon-yml:before,
+.icon-zip:before,
+.seti-icons .icon-file-binary:before,
+.seti-icons .icon-file-pdf:before,
+.seti-icons .icon-file-text:before,
+.seti-icons .icon-book:before,
+.seti-icons .icon-file-media:before,
+.seti-icons .icon-markdown:before,
+.seti-icons .title:before,
+.seti-icons .icon[data-name$=".bsl"]:before,
+.seti-icons .icon[data-name$=".mdo"]:before,
+.seti-icons .icon[data-name$=".asm"]:before,
+.seti-icons .icon[data-name$=".s"]:before,
+.seti-icons .icon[data-name$=".c"]:before,
+.seti-icons .icon[data-name$=".h"]:before,
+.seti-icons .icon[data-name$=".m"]:before,
+.seti-icons .icon[data-name$=".cs"]:before,
+.seti-icons .icon[data-name$=".cshtml"]:before,
+.seti-icons .icon[data-name$=".aspx"]:before,
+.seti-icons .icon[data-name$=".ascx"]:before,
+.seti-icons .icon[data-name$=".asax"]:before,
+.seti-icons .icon[data-name$=".master"]:before,
+.seti-icons .icon[data-name$=".cc"]:before,
+.seti-icons .icon[data-name$=".cpp"]:before,
+.seti-icons .icon[data-name$=".cxx"]:before,
+.seti-icons .icon[data-name$=".c++"]:before,
+.seti-icons .icon[data-name$=".hh"]:before,
+.seti-icons .icon[data-name$=".hpp"]:before,
+.seti-icons .icon[data-name$=".hxx"]:before,
+.seti-icons .icon[data-name$=".h++"]:before,
+.seti-icons .icon[data-name$=".mm"]:before,
+.seti-icons .icon[data-name$=".clj"]:before,
+.seti-icons .icon[data-name$=".cljs"]:before,
+.seti-icons .icon[data-name$=".cljc"]:before,
+.seti-icons .icon[data-name$=".edn"]:before,
+.seti-icons .icon[data-name$=".cfc"]:before,
+.seti-icons .icon[data-name$=".cfm"]:before,
+.seti-icons .icon[data-name$=".coffee"]:before,
+.seti-icons .icon[data-name$=".config"]:before,
+.seti-icons .icon[data-name$=".cfg"]:before,
+.seti-icons .icon[data-name$=".conf"]:before,
+.seti-icons .icon[data-name$=".cr"]:before,
+.seti-icons .icon[data-name$=".ecr"]:before,
+.seti-icons .icon[data-name$=".slang"]:before,
+.seti-icons .icon[data-name$=".cson"]:before,
+.seti-icons .icon[data-name$=".css"]:before,
+.seti-icons .icon[data-name$=".css.map"]:before,
+.seti-icons .icon[data-name$=".sss"]:before,
+.seti-icons .icon[data-name$=".csv"]:before,
+.seti-icons .icon[data-name$=".xls"]:before,
+.seti-icons .icon[data-name$=".xlsx"]:before,
+.seti-icons .icon[data-name$=".cake"]:before,
+.seti-icons .icon[data-name$=".ctp"]:before,
+.seti-icons .icon[data-name$=".d"]:before,
+.seti-icons .icon[data-name$=".doc"]:before,
+.seti-icons .icon[data-name$=".docx"]:before,
+.seti-icons .icon[data-name$=".ejs"]:before,
+.seti-icons .icon[data-name$=".ex"]:before,
+.seti-icons .icon[data-name$=".exs"]:before,
+.seti-icons .icon[data-name$="mix"]:before,
+.seti-icons .icon[data-name$=".elm"]:before,
+.seti-icons .icon[data-name$=".ico"]:before,
+.seti-icons .icon[data-name$=".fs"]:before,
+.seti-icons .icon[data-name$=".fsx"]:before,
+.seti-icons .icon[data-name$=".gitignore"]:before,
+.seti-icons .icon[data-name$=".gitconfig"]:before,
+.seti-icons .icon[data-name$=".gitkeep"]:before,
+.seti-icons .icon[data-name$=".gitattributes"]:before,
+.seti-icons .icon[data-name$=".gitmodules"]:before,
+.seti-icons .icon[data-name$=".go"]:before,
+.seti-icons .icon[data-name$=".slide"]:before,
+.seti-icons .icon[data-name$=".article"]:before,
+.seti-icons .icon[data-name$=".gradle"]:before,
+.seti-icons .icon[data-name$=".groovy"]:before,
+.seti-icons .icon[data-name$=".gsp"]:before,
+.seti-icons .icon[data-name$=".gql"]:before,
+.seti-icons .icon[data-name$=".graphql"]:before,
+.seti-icons .icon[data-name$=".haml"]:before,
+.seti-icons .icon[data-name$=".handlebars"]:before,
+.seti-icons .icon[data-name$=".hbs"]:before,
+.seti-icons .icon[data-name$=".hjs"]:before,
+.seti-icons .icon[data-name$=".hs"]:before,
+.seti-icons .icon[data-name$=".lhs"]:before,
+.seti-icons .icon[data-name$=".hx"]:before,
+.seti-icons .icon[data-name$=".hxs"]:before,
+.seti-icons .icon[data-name$=".hxp"]:before,
+.seti-icons .icon[data-name$=".hxml"]:before,
+.seti-icons .icon[data-name$=".html"]:before,
+.seti-icons .icon[data-name$=".jade"]:before,
+.seti-icons .icon[data-name$=".java"]:before,
+.seti-icons .icon[data-name$=".class"]:before,
+.seti-icons .icon[data-name$=".classpath"]:before,
+.seti-icons .icon[data-name$=".properties"]:before,
+.seti-icons .icon[data-name$=".js"]:before,
+.seti-icons .icon[data-name$=".js.map"]:before,
+.seti-icons .icon[data-name$=".spec.js"]:before,
+.seti-icons .icon[data-name$=".test.js"]:before,
+.seti-icons .icon[data-name$=".es"]:before,
+.seti-icons .icon[data-name$=".es5"]:before,
+.seti-icons .icon[data-name$=".es6"]:before,
+.seti-icons .icon[data-name$=".es7"]:before,
+.seti-icons .icon[data-name$=".jinja"]:before,
+.seti-icons .icon[data-name$=".jinja2"]:before,
+.seti-icons .icon[data-name$=".json"]:before,
+.seti-icons .icon[data-name$=".jl"]:before,
+.seti-icons .icon[data-name$="karma.conf.js"]:before,
+.seti-icons .icon[data-name$="karma.conf.coffee"]:before,
+.seti-icons .icon[data-name$=".kt"]:before,
+.seti-icons .icon[data-name$=".kts"]:before,
+.seti-icons .icon[data-name$=".dart"]:before,
+.seti-icons .icon[data-name$=".less"]:before,
+.seti-icons .icon[data-name$=".liquid"]:before,
+.seti-icons .icon[data-name$=".ls"]:before,
+.seti-icons .icon[data-name$=".lua"]:before,
+.seti-icons .icon[data-name$=".markdown"]:before,
+.seti-icons .icon[data-name$=".md"]:before,
+.seti-icons .icon[data-name$=".argdown"]:before,
+.seti-icons .icon[data-name$=".ad"]:before,
+.seti-icons .icon[data-name$="README.md"]:before,
+.seti-icons .icon[data-name$="CHANGELOG.md"]:before,
+.seti-icons .icon[data-name$="CHANGELOG"]:before,
+.seti-icons .icon[data-name$="CHANGES.md"]:before,
+.seti-icons .icon[data-name$="VERSION.md"]:before,
+.seti-icons .icon[data-name$="VERSION"]:before,
+.seti-icons .icon[data-name$="mvnw"]:before,
+.seti-icons .icon[data-name$=".mustache"]:before,
+.seti-icons .icon[data-name$=".stache"]:before,
+.seti-icons .icon[data-name$=".njk"]:before,
+.seti-icons .icon[data-name$=".nunjucks"]:before,
+.seti-icons .icon[data-name$=".nunjs"]:before,
+.seti-icons .icon[data-name$=".nunj"]:before,
+.seti-icons .icon[data-name$=".njs"]:before,
+.seti-icons .icon[data-name$=".nj"]:before,
+.seti-icons .icon[data-name$=".npm-debug.log"]:before,
+.seti-icons .icon[data-name$=".npmignore"]:before,
+.seti-icons .icon[data-name$=".npmrc"]:before,
+.seti-icons .icon[data-name$=".ml"]:before,
+.seti-icons .icon[data-name$=".mli"]:before,
+.seti-icons .icon[data-name$=".cmx"]:before,
+.seti-icons .icon[data-name$=".cmxa"]:before,
+.seti-icons .icon[data-name$=".odata"]:before,
+.seti-icons .icon[data-name$=".pl"]:before,
+.seti-icons .icon[data-name$=".php"]:before,
+.seti-icons .icon[data-name$=".php.inc"]:before,
+.seti-icons .icon[data-name$=".pddl"]:before,
+.seti-icons .icon[data-name$=".plan"]:before,
+.seti-icons .icon[data-name$=".happenings"]:before,
+.seti-icons .icon[data-name$=".ps1"]:before,
+.seti-icons .icon[data-name$=".psd1"]:before,
+.seti-icons .icon[data-name$=".psm1"]:before,
+.seti-icons .icon[data-name$=".pug"]:before,
+.seti-icons .icon[data-name$=".pp"]:before,
+.seti-icons .icon[data-name$=".epp"]:before,
+.seti-icons .icon[data-name$=".py"]:before,
+.seti-icons .icon[data-name$=".jsx"]:before,
+.seti-icons .icon[data-name$=".spec.jsx"]:before,
+.seti-icons .icon[data-name$=".test.jsx"]:before,
+.seti-icons .icon[data-name$=".cjsx"]:before,
+.seti-icons .icon[data-name$=".tsx"]:before,
+.seti-icons .icon[data-name$=".spec.tsx"]:before,
+.seti-icons .icon[data-name$=".test.tsx"]:before,
+.seti-icons .icon[data-name$=".re"]:before,
+.seti-icons .icon[data-name$=".R"]:before,
+.seti-icons .icon[data-name$=".rb"]:before,
+.seti-icons .icon[data-name$=".erb"]:before,
+.seti-icons .icon[data-name$=".erb.html"]:before,
+.seti-icons .icon[data-name$=".html.erb"]:before,
+.seti-icons .icon[data-name$=".rs"]:before,
+.seti-icons .icon[data-name$=".sass"]:before,
+.seti-icons .icon[data-name$=".scss"]:before,
+.seti-icons .icon[data-name$=".springBeans"]:before,
+.seti-icons .icon[data-name$=".slim"]:before,
+.seti-icons .icon[data-name$=".smarty.tpl"]:before,
+.seti-icons .icon[data-name$=".sbt"]:before,
+.seti-icons .icon[data-name$=".scala"]:before,
+.seti-icons .icon[data-name$=".sol"]:before,
+.seti-icons .icon[data-name$=".styl"]:before,
+.seti-icons .icon[data-name$=".swift"]:before,
+.seti-icons .icon[data-name$=".sql"]:before,
+.seti-icons .icon[data-name$=".tf"]:before,
+.seti-icons .icon[data-name$=".tf.json"]:before,
+.seti-icons .icon[data-name$=".tfvars"]:before,
+.seti-icons .icon[data-name$=".tex"]:before,
+.seti-icons .icon[data-name$=".sty"]:before,
+.seti-icons .icon[data-name$=".dtx"]:before,
+.seti-icons .icon[data-name$=".ins"]:before,
+.seti-icons .icon[data-name$=".txt"]:before,
+.seti-icons .icon[data-name$=".toml"]:before,
+.seti-icons .icon[data-name$=".twig"]:before,
+.seti-icons .icon[data-name$=".ts"]:before,
+.seti-icons .icon[data-name$=".spec.ts"]:before,
+.seti-icons .icon[data-name$=".test.ts"]:before,
+.seti-icons .icon[data-name$="tsconfig.json"]:before,
+.seti-icons .icon[data-name$=".vala"]:before,
+.seti-icons .icon[data-name$=".vapi"]:before,
+.seti-icons .icon[data-name$=".vue"]:before,
+.seti-icons .icon[data-name$=".wasm"]:before,
+.seti-icons .icon[data-name$=".wat"]:before,
+.seti-icons .icon[data-name$=".xml"]:before,
+.seti-icons .icon[data-name$=".yml"]:before,
+.seti-icons .icon[data-name$=".yaml"]:before,
+.seti-icons .icon[data-name$="swagger.json"]:before,
+.seti-icons .icon[data-name$="swagger.yml"]:before,
+.seti-icons .icon[data-name$="swagger.yaml"]:before,
+.seti-icons .icon[data-name$=".jar"]:before,
+.seti-icons .icon[data-name$=".zip"]:before,
+.seti-icons .icon[data-name$=".wgt"]:before,
+.seti-icons .icon[data-name$=".ai"]:before,
+.seti-icons .icon[data-name$=".psd"]:before,
+.seti-icons .icon[data-name$=".pdf"]:before,
+.seti-icons .icon[data-name$=".eot"]:before,
+.seti-icons .icon[data-name$=".ttf"]:before,
+.seti-icons .icon[data-name$=".woff"]:before,
+.seti-icons .icon[data-name$=".woff2"]:before,
+.seti-icons .icon[data-name$=".gif"]:before,
+.seti-icons .icon[data-name$=".jpg"]:before,
+.seti-icons .icon[data-name$=".jpeg"]:before,
+.seti-icons .icon[data-name$=".png"]:before,
+.seti-icons .icon[data-name$=".pxm"]:before,
+.seti-icons .icon[data-name$=".svg"]:before,
+.seti-icons .icon[data-name$=".svgx"]:before,
+.seti-icons .icon[data-name$=".sublime-project"]:before,
+.seti-icons .icon[data-name$=".sublime-workspace"]:before,
+.seti-icons .icon[data-name$=".component"]:before,
+.seti-icons .icon[data-name$=".cls"]:before,
+.seti-icons .icon[data-name$=".sh"]:before,
+.seti-icons .icon[data-name$=".zsh"]:before,
+.seti-icons .icon[data-name$=".fish"]:before,
+.seti-icons .icon[data-name$=".zshrc"]:before,
+.seti-icons .icon[data-name$=".bashrc"]:before,
+.seti-icons .icon[data-name$=".mov"]:before,
+.seti-icons .icon[data-name$=".ogv"]:before,
+.seti-icons .icon[data-name$=".webm"]:before,
+.seti-icons .icon[data-name$=".avi"]:before,
+.seti-icons .icon[data-name$=".mpg"]:before,
+.seti-icons .icon[data-name$=".mp4"]:before,
+.seti-icons .icon[data-name$=".mp3"]:before,
+.seti-icons .icon[data-name$=".ogg"]:before,
+.seti-icons .icon[data-name$=".wav"]:before,
+.seti-icons .icon[data-name$=".flac"]:before,
+.seti-icons .icon[data-name$=".3ds"]:before,
+.seti-icons .icon[data-name$=".3dm"]:before,
+.seti-icons .icon[data-name$=".stl"]:before,
+.seti-icons .icon[data-name$=".obj"]:before,
+.seti-icons .icon[data-name$=".dae"]:before,
+.seti-icons .icon[data-name$=".bat"]:before,
+.seti-icons .icon[data-name$=".cmd"]:before,
+.seti-icons .icon[data-name$="mime.types"]:before,
+.seti-icons .icon[data-name$="Jenkinsfile"]:before,
+.seti-icons .icon[data-name$=".babelrc"]:before,
+.seti-icons .icon[data-name$="bower.json"]:before,
+.seti-icons .icon[data-name$="Bower.json"]:before,
+.seti-icons .icon[data-name$=".bowerrc"]:before,
+.seti-icons .icon[data-name$="dockerfile"]:before,
+.seti-icons .icon[data-name$="Dockerfile"]:before,
+.seti-icons .icon[data-name$="DOCKERFILE"]:before,
+.seti-icons .icon[data-name$=".dockerignore"]:before,
+.seti-icons .icon[data-name$="docker-healthcheck"]:before,
+.seti-icons .icon[data-name$="docker-compose.yml"]:before,
+.seti-icons .icon[data-name$="docker-compose.yaml"]:before,
+.seti-icons .icon[data-name$="docker-compose.override.yml"]:before,
+.seti-icons .icon[data-name$="docker-compose.override.yaml"]:before,
+.seti-icons .icon[data-name$=".codeclimate.yml"]:before,
+.seti-icons .icon[data-name$=".eslintrc"]:before,
+.seti-icons .icon[data-name$=".eslintrc.js"]:before,
+.seti-icons .icon[data-name$=".eslintrc.yaml"]:before,
+.seti-icons .icon[data-name$=".eslintrc.yml"]:before,
+.seti-icons .icon[data-name$=".eslintrc.json"]:before,
+.seti-icons .icon[data-name$=".eslintignore"]:before,
+.seti-icons .icon[data-name$=".firebaserc"]:before,
+.seti-icons .icon[data-name$="firebase.json"]:before,
+.seti-icons .icon[data-name$="geckodriver"]:before,
+.seti-icons .icon[data-name$="Gruntfile.js"]:before,
+.seti-icons .icon[data-name$="gruntfile.babel.js"]:before,
+.seti-icons .icon[data-name$="Gruntfile.babel.js"]:before,
+.seti-icons .icon[data-name$="gruntfile.js"]:before,
+.seti-icons .icon[data-name$="Gruntfile.coffee"]:before,
+.seti-icons .icon[data-name$="gruntfile.coffee"]:before,
+.seti-icons .icon[data-name$="GULPFILE"]:before,
+.seti-icons .icon[data-name$="Gulpfile"]:before,
+.seti-icons .icon[data-name$="gulpfile"]:before,
+.seti-icons .icon[data-name$="ionic.config.json"]:before,
+.seti-icons .icon[data-name$="Ionic.config.json"]:before,
+.seti-icons .icon[data-name$="ionic.project"]:before,
+.seti-icons .icon[data-name$="Ionic.project"]:before,
+.seti-icons .icon[data-name$=".jshintrc"]:before,
+.seti-icons .icon[data-name$=".jscsrc"]:before,
+.seti-icons .icon[data-name$="platformio.ini"]:before,
+.seti-icons .icon[data-name$="rollup.config.js"]:before,
+.seti-icons .icon[data-name$="sass-lint.yml"]:before,
+.seti-icons .icon[data-name$=".stylelintrc"]:before,
+.seti-icons .icon[data-name$=".stylelintrc.json"]:before,
+.seti-icons .icon[data-name$=".stylelintrc.yaml"]:before,
+.seti-icons .icon[data-name$=".stylelintrc.yml"]:before,
+.seti-icons .icon[data-name$=".stylelintrc.js"]:before,
+.seti-icons .icon[data-name$=".stylelintignore"]:before,
+.seti-icons .icon[data-name$="stylelint.config.js"]:before,
+.seti-icons .icon[data-name$="yarn.clean"]:before,
+.seti-icons .icon[data-name$="yarn.lock"]:before,
+.seti-icons .icon[data-name$="webpack.config.js"]:before,
+.seti-icons .icon[data-name$="webpack.config.build.js"]:before,
+.seti-icons .icon[data-name$="webpack.common.js"]:before,
+.seti-icons .icon[data-name$="webpack.dev.js"]:before,
+.seti-icons .icon[data-name$="webpack.prod.js"]:before,
+.seti-icons .icon[data-name$=".direnv"]:before,
+.seti-icons .icon[data-name$=".env"]:before,
+.seti-icons .icon[data-name$=".static"]:before,
+.seti-icons .icon[data-name$=".editorconfig"]:before,
+.seti-icons .icon[data-name$=".slugignore"]:before,
+.seti-icons .icon[data-name$=".tmp"]:before,
+.seti-icons .icon[data-name$=".htaccess"]:before,
+.seti-icons .icon[data-name$=".key"]:before,
+.seti-icons .icon[data-name$=".cert"]:before,
+.seti-icons .icon[data-name$="LICENSE"]:before,
+.seti-icons .icon[data-name$="LICENCE"]:before,
+.seti-icons .icon[data-name$="COPYING"]:before,
+.seti-icons .icon[data-name$="COMPILING"]:before,
+.seti-icons .icon[data-name$="CONTRIBUTING"]:before,
+.seti-icons .icon[data-name$="MAKEFILE"]:before,
+.seti-icons .icon[data-name$="Makefile"]:before,
+.seti-icons .icon[data-name$="makefile"]:before,
+.seti-icons .icon[data-name$="QMAKEFILE"]:before,
+.seti-icons .icon[data-name$="QMakefile"]:before,
+.seti-icons .icon[data-name$="qmakefile"]:before,
+.seti-icons .icon[data-name$="OMAKEFILE"]:before,
+.seti-icons .icon[data-name$="OMakefile"]:before,
+.seti-icons .icon[data-name$="omakefile"]:before,
+.seti-icons .icon[data-name$="CMAKELISTS.TXT"]:before,
+.seti-icons .icon[data-name$="CMAKELISTS.txt"]:before,
+.seti-icons .icon[data-name$="CMakeLists.txt"]:before,
+.seti-icons .icon[data-name$="cmakelists.txt"]:before,
+.seti-icons .icon[data-name$="Procfile"]:before,
+.seti-icons .icon[data-name$="TODO"]:before,
+.seti-icons .icon[data-name$="npm-debug.log"]:before,
+.seti-icons .icon[data-name$=".DS_Store"]:before {
+  font-family: 'seti';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.icon-R:before {
+  content: '\E001';
+  color: #d4d7d6;
+}
+.icon-apple:before {
+  content: '\E002';
+  color: #d4d7d6;
+}
+.icon-argdown:before {
+  content: '\E003';
+  color: #d4d7d6;
+}
+.icon-asm:before {
+  content: '\E004';
+  color: #d4d7d6;
+}
+.icon-audio:before {
+  content: '\E005';
+  color: #d4d7d6;
+}
+.icon-babel:before {
+  content: '\E006';
+  color: #d4d7d6;
+}
+.icon-bower:before {
+  content: '\E007';
+  color: #d4d7d6;
+}
+.icon-bsl:before {
+  content: '\E008';
+  color: #d4d7d6;
+}
+.icon-c-sharp:before {
+  content: '\E009';
+  color: #d4d7d6;
+}
+.icon-c:before {
+  content: '\E00A';
+  color: #d4d7d6;
+}
+.icon-cake:before {
+  content: '\E00B';
+  color: #d4d7d6;
+}
+.icon-cake_php:before {
+  content: '\E00C';
+  color: #d4d7d6;
+}
+.icon-checkbox-unchecked:before {
+  content: '\E00D';
+  color: #d4d7d6;
+}
+.icon-checkbox:before {
+  content: '\E00E';
+  color: #d4d7d6;
+}
+.icon-cjsx:before {
+  content: '\E00F';
+  color: #d4d7d6;
+}
+.icon-clock:before {
+  content: '\E010';
+  color: #d4d7d6;
+}
+.icon-clojure:before {
+  content: '\E011';
+  color: #d4d7d6;
+}
+.icon-code-climate:before {
+  content: '\E012';
+  color: #d4d7d6;
+}
+.icon-coffee:before {
+  content: '\E013';
+  color: #d4d7d6;
+}
+.icon-coffee_erb:before {
+  content: '\E014';
+  color: #d4d7d6;
+}
+.icon-coldfusion:before {
+  content: '\E015';
+  color: #d4d7d6;
+}
+.icon-config:before {
+  content: '\E016';
+  color: #d4d7d6;
+}
+.icon-cpp:before {
+  content: '\E017';
+  color: #d4d7d6;
+}
+.icon-crystal:before {
+  content: '\E018';
+  color: #d4d7d6;
+}
+.icon-crystal_embedded:before {
+  content: '\E019';
+  color: #d4d7d6;
+}
+.icon-css:before {
+  content: '\E01A';
+  color: #d4d7d6;
+}
+.icon-csv:before {
+  content: '\E01B';
+  color: #d4d7d6;
+}
+.icon-d:before {
+  content: '\E01C';
+  color: #d4d7d6;
+}
+.icon-dart:before {
+  content: '\E01D';
+  color: #d4d7d6;
+}
+.icon-db:before {
+  content: '\E01E';
+  color: #d4d7d6;
+}
+.icon-default:before {
+  content: '\E01F';
+  color: #d4d7d6;
+}
+.icon-deprecation-cop:before {
+  content: '\E020';
+  color: #d4d7d6;
+}
+.icon-docker:before {
+  content: '\E021';
+  color: #d4d7d6;
+}
+.icon-editorconfig:before {
+  content: '\E022';
+  color: #d4d7d6;
+}
+.icon-ejs:before {
+  content: '\E023';
+  color: #d4d7d6;
+}
+.icon-elixir:before {
+  content: '\E024';
+  color: #d4d7d6;
+}
+.icon-elixir_script:before {
+  content: '\E025';
+  color: #d4d7d6;
+}
+.icon-elm:before {
+  content: '\E026';
+  color: #d4d7d6;
+}
+.icon-error:before {
+  content: '\E027';
+  color: #d4d7d6;
+}
+.icon-eslint:before {
+  content: '\E028';
+  color: #d4d7d6;
+}
+.icon-ethereum:before {
+  content: '\E029';
+  color: #d4d7d6;
+}
+.icon-f-sharp:before {
+  content: '\E02A';
+  color: #d4d7d6;
+}
+.icon-favicon:before {
+  content: '\E02B';
+  color: #d4d7d6;
+}
+.icon-firebase:before {
+  content: '\E02C';
+  color: #d4d7d6;
+}
+.icon-firefox:before {
+  content: '\E02D';
+  color: #d4d7d6;
+}
+.icon-folder:before {
+  content: '\E02E';
+  color: #d4d7d6;
+}
+.icon-font:before {
+  content: '\E02F';
+  color: #d4d7d6;
+}
+.icon-git:before {
+  content: '\E030';
+  color: #d4d7d6;
+}
+.icon-git_folder:before {
+  content: '\E031';
+  color: #d4d7d6;
+}
+.icon-git_ignore:before {
+  content: '\E032';
+  color: #d4d7d6;
+}
+.icon-github:before {
+  content: '\E033';
+  color: #d4d7d6;
+}
+.icon-go:before {
+  content: '\E034';
+  color: #d4d7d6;
+}
+.icon-go2:before {
+  content: '\E035';
+  color: #d4d7d6;
+}
+.icon-gradle:before {
+  content: '\E036';
+  color: #d4d7d6;
+}
+.icon-grails:before {
+  content: '\E037';
+  color: #d4d7d6;
+}
+.icon-graphql:before {
+  content: '\E038';
+  color: #d4d7d6;
+}
+.icon-grunt:before {
+  content: '\E039';
+  color: #d4d7d6;
+}
+.icon-gulp:before {
+  content: '\E03A';
+  color: #d4d7d6;
+}
+.icon-hacklang:before {
+  content: '\E03B';
+  color: #d4d7d6;
+}
+.icon-haml:before {
+  content: '\E03C';
+  color: #d4d7d6;
+}
+.icon-happenings:before {
+  content: '\E03D';
+  color: #d4d7d6;
+}
+.icon-haskell:before {
+  content: '\E03E';
+  color: #d4d7d6;
+}
+.icon-haxe:before {
+  content: '\E03F';
+  color: #d4d7d6;
+}
+.icon-heroku:before {
+  content: '\E040';
+  color: #d4d7d6;
+}
+.icon-hex:before {
+  content: '\E041';
+  color: #d4d7d6;
+}
+.icon-html:before {
+  content: '\E042';
+  color: #d4d7d6;
+}
+.icon-html_erb:before {
+  content: '\E043';
+  color: #d4d7d6;
+}
+.icon-ignored:before {
+  content: '\E044';
+  color: #d4d7d6;
+}
+.icon-illustrator:before {
+  content: '\E045';
+  color: #d4d7d6;
+}
+.icon-image:before {
+  content: '\E046';
+  color: #d4d7d6;
+}
+.icon-info:before {
+  content: '\E047';
+  color: #d4d7d6;
+}
+.icon-ionic:before {
+  content: '\E048';
+  color: #d4d7d6;
+}
+.icon-jade:before {
+  content: '\E049';
+  color: #d4d7d6;
+}
+.icon-java:before {
+  content: '\E04A';
+  color: #d4d7d6;
+}
+.icon-javascript:before {
+  content: '\E04B';
+  color: #d4d7d6;
+}
+.icon-jenkins:before {
+  content: '\E04C';
+  color: #d4d7d6;
+}
+.icon-jinja:before {
+  content: '\E04D';
+  color: #d4d7d6;
+}
+.icon-js_erb:before {
+  content: '\E04E';
+  color: #d4d7d6;
+}
+.icon-json:before {
+  content: '\E04F';
+  color: #d4d7d6;
+}
+.icon-julia:before {
+  content: '\E050';
+  color: #d4d7d6;
+}
+.icon-karma:before {
+  content: '\E051';
+  color: #d4d7d6;
+}
+.icon-kotlin:before {
+  content: '\E052';
+  color: #d4d7d6;
+}
+.icon-less:before {
+  content: '\E053';
+  color: #d4d7d6;
+}
+.icon-license:before {
+  content: '\E054';
+  color: #d4d7d6;
+}
+.icon-liquid:before {
+  content: '\E055';
+  color: #d4d7d6;
+}
+.icon-livescript:before {
+  content: '\E056';
+  color: #d4d7d6;
+}
+.icon-lock:before {
+  content: '\E057';
+  color: #d4d7d6;
+}
+.icon-lua:before {
+  content: '\E058';
+  color: #d4d7d6;
+}
+.icon-makefile:before {
+  content: '\E059';
+  color: #d4d7d6;
+}
+.icon-markdown:before {
+  content: '\E05A';
+  color: #d4d7d6;
+}
+.icon-maven:before {
+  content: '\E05B';
+  color: #d4d7d6;
+}
+.icon-mdo:before {
+  content: '\E05C';
+  color: #d4d7d6;
+}
+.icon-mustache:before {
+  content: '\E05D';
+  color: #d4d7d6;
+}
+.icon-new-file:before {
+  content: '\E05E';
+  color: #d4d7d6;
+}
+.icon-npm:before {
+  content: '\E05F';
+  color: #d4d7d6;
+}
+.icon-npm_ignored:before {
+  content: '\E060';
+  color: #d4d7d6;
+}
+.icon-nunjucks:before {
+  content: '\E061';
+  color: #d4d7d6;
+}
+.icon-ocaml:before {
+  content: '\E062';
+  color: #d4d7d6;
+}
+.icon-odata:before {
+  content: '\E063';
+  color: #d4d7d6;
+}
+.icon-pddl:before {
+  content: '\E064';
+  color: #d4d7d6;
+}
+.icon-pdf:before {
+  content: '\E065';
+  color: #d4d7d6;
+}
+.icon-perl:before {
+  content: '\E066';
+  color: #d4d7d6;
+}
+.icon-photoshop:before {
+  content: '\E067';
+  color: #d4d7d6;
+}
+.icon-php:before {
+  content: '\E068';
+  color: #d4d7d6;
+}
+.icon-plan:before {
+  content: '\E069';
+  color: #d4d7d6;
+}
+.icon-platformio:before {
+  content: '\E06A';
+  color: #d4d7d6;
+}
+.icon-powershell:before {
+  content: '\E06B';
+  color: #d4d7d6;
+}
+.icon-project:before {
+  content: '\E06C';
+  color: #d4d7d6;
+}
+.icon-pug:before {
+  content: '\E06D';
+  color: #d4d7d6;
+}
+.icon-puppet:before {
+  content: '\E06E';
+  color: #d4d7d6;
+}
+.icon-python:before {
+  content: '\E06F';
+  color: #d4d7d6;
+}
+.icon-rails:before {
+  content: '\E070';
+  color: #d4d7d6;
+}
+.icon-react:before {
+  content: '\E071';
+  color: #d4d7d6;
+}
+.icon-reasonml:before {
+  content: '\E072';
+  color: #d4d7d6;
+}
+.icon-rollup:before {
+  content: '\E073';
+  color: #d4d7d6;
+}
+.icon-ruby:before {
+  content: '\E074';
+  color: #d4d7d6;
+}
+.icon-rust:before {
+  content: '\E075';
+  color: #d4d7d6;
+}
+.icon-salesforce:before {
+  content: '\E076';
+  color: #d4d7d6;
+}
+.icon-sass:before {
+  content: '\E077';
+  color: #d4d7d6;
+}
+.icon-sbt:before {
+  content: '\E078';
+  color: #d4d7d6;
+}
+.icon-scala:before {
+  content: '\E079';
+  color: #d4d7d6;
+}
+.icon-search:before {
+  content: '\E07A';
+  color: #d4d7d6;
+}
+.icon-settings:before {
+  content: '\E07B';
+  color: #d4d7d6;
+}
+.icon-shell:before {
+  content: '\E07C';
+  color: #d4d7d6;
+}
+.icon-slim:before {
+  content: '\E07D';
+  color: #d4d7d6;
+}
+.icon-smarty:before {
+  content: '\E07E';
+  color: #d4d7d6;
+}
+.icon-spring:before {
+  content: '\E07F';
+  color: #d4d7d6;
+}
+.icon-stylelint:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.icon-stylus:before {
+  content: '\E081';
+  color: #d4d7d6;
+}
+.icon-sublime:before {
+  content: '\E082';
+  color: #d4d7d6;
+}
+.icon-svg:before {
+  content: '\E083';
+  color: #d4d7d6;
+}
+.icon-swift:before {
+  content: '\E084';
+  color: #d4d7d6;
+}
+.icon-terraform:before {
+  content: '\E085';
+  color: #d4d7d6;
+}
+.icon-tex:before {
+  content: '\E086';
+  color: #d4d7d6;
+}
+.icon-time-cop:before {
+  content: '\E087';
+  color: #d4d7d6;
+}
+.icon-todo:before {
+  content: '\E088';
+  color: #d4d7d6;
+}
+.icon-tsconfig:before {
+  content: '\E089';
+  color: #d4d7d6;
+}
+.icon-twig:before {
+  content: '\E08A';
+  color: #d4d7d6;
+}
+.icon-typescript:before {
+  content: '\E08B';
+  color: #d4d7d6;
+}
+.icon-vala:before {
+  content: '\E08C';
+  color: #d4d7d6;
+}
+.icon-video:before {
+  content: '\E08D';
+  color: #d4d7d6;
+}
+.icon-vue:before {
+  content: '\E08E';
+  color: #d4d7d6;
+}
+.icon-wasm:before {
+  content: '\E08F';
+  color: #d4d7d6;
+}
+.icon-wat:before {
+  content: '\E090';
+  color: #d4d7d6;
+}
+.icon-webpack:before {
+  content: '\E091';
+  color: #d4d7d6;
+}
+.icon-wgt:before {
+  content: '\E092';
+  color: #d4d7d6;
+}
+.icon-windows:before {
+  content: '\E093';
+  color: #d4d7d6;
+}
+.icon-word:before {
+  content: '\E094';
+  color: #d4d7d6;
+}
+.icon-xls:before {
+  content: '\E095';
+  color: #d4d7d6;
+}
+.icon-xml:before {
+  content: '\E096';
+  color: #d4d7d6;
+}
+.icon-yarn:before {
+  content: '\E097';
+  color: #d4d7d6;
+}
+.icon-yml:before {
+  content: '\E098';
+  color: #d4d7d6;
+}
+.icon-zip:before {
+  content: '\E099';
+  color: #d4d7d6;
+}
+.seti-icons .icon-file-binary:before,
+.seti-icons .icon-file-pdf:before,
+.seti-icons .icon-file-text:before,
+.seti-icons .icon-book:before,
+.seti-icons .icon-file-media:before,
+.seti-icons .icon-markdown:before,
+.seti-icons .title:before {
+  content: '\E01F';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".bsl"]:before {
+  content: '\E008';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".mdo"]:before {
+  content: '\E05C';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".asm"]:before {
+  content: '\E004';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".s"]:before {
+  content: '\E004';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".c"]:before {
+  content: '\E00A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".h"]:before {
+  content: '\E00A';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".m"]:before {
+  content: '\E00A';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".cs"]:before {
+  content: '\E009';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cshtml"]:before {
+  content: '\E042';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".aspx"]:before {
+  content: '\E042';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ascx"]:before {
+  content: '\E042';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".asax"]:before {
+  content: '\E042';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".master"]:before {
+  content: '\E042';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".cc"]:before {
+  content: '\E017';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cpp"]:before {
+  content: '\E017';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cxx"]:before {
+  content: '\E017';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".c++"]:before {
+  content: '\E017';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".hh"]:before {
+  content: '\E017';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".hpp"]:before {
+  content: '\E017';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".hxx"]:before {
+  content: '\E017';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".h++"]:before {
+  content: '\E017';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".mm"]:before {
+  content: '\E017';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".clj"]:before {
+  content: '\E011';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".cljs"]:before {
+  content: '\E011';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".cljc"]:before {
+  content: '\E011';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".edn"]:before {
+  content: '\E011';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cfc"]:before {
+  content: '\E015';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cfm"]:before {
+  content: '\E015';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".coffee"]:before {
+  content: '\E013';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".config"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".cfg"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".conf"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".cr"]:before {
+  content: '\E018';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".ecr"]:before {
+  content: '\E019';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".slang"]:before {
+  content: '\E019';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".cson"]:before {
+  content: '\E04F';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".css"]:before {
+  content: '\E01A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".css.map"]:before {
+  content: '\E01A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".sss"]:before {
+  content: '\E01A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".csv"]:before {
+  content: '\E01B';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".xls"]:before {
+  content: '\E095';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".xlsx"]:before {
+  content: '\E095';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".cake"]:before {
+  content: '\E00B';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".ctp"]:before {
+  content: '\E00C';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".d"]:before {
+  content: '\E01C';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".doc"]:before {
+  content: '\E094';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".docx"]:before {
+  content: '\E094';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ejs"]:before {
+  content: '\E023';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".ex"]:before {
+  content: '\E024';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".exs"]:before {
+  content: '\E025';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="mix"]:before {
+  content: '\E041';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".elm"]:before {
+  content: '\E026';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ico"]:before {
+  content: '\E02B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".fs"]:before {
+  content: '\E02A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".fsx"]:before {
+  content: '\E02A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".gitignore"]:before {
+  content: '\E030';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".gitconfig"]:before {
+  content: '\E030';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".gitkeep"]:before {
+  content: '\E030';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".gitattributes"]:before {
+  content: '\E030';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".gitmodules"]:before {
+  content: '\E030';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".go"]:before {
+  content: '\E035';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".slide"]:before {
+  content: '\E034';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".article"]:before {
+  content: '\E034';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".gradle"]:before {
+  content: '\E036';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".groovy"]:before {
+  content: '\E037';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".gsp"]:before {
+  content: '\E037';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".gql"]:before {
+  content: '\E038';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".graphql"]:before {
+  content: '\E038';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".haml"]:before {
+  content: '\E03C';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".handlebars"]:before {
+  content: '\E05D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".hbs"]:before {
+  content: '\E05D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".hjs"]:before {
+  content: '\E05D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".hs"]:before {
+  content: '\E03E';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".lhs"]:before {
+  content: '\E03E';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".hx"]:before {
+  content: '\E03F';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".hxs"]:before {
+  content: '\E03F';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".hxp"]:before {
+  content: '\E03F';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".hxml"]:before {
+  content: '\E03F';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".html"]:before {
+  content: '\E042';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".jade"]:before {
+  content: '\E049';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".java"]:before {
+  content: '\E04A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".class"]:before {
+  content: '\E04A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".classpath"]:before {
+  content: '\E04A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".properties"]:before {
+  content: '\E04A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".js"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".js.map"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".spec.js"]:before {
+  content: '\E04B';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".test.js"]:before {
+  content: '\E04B';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".es"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".es5"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".es6"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".es7"]:before {
+  content: '\E04B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".jinja"]:before {
+  content: '\E04D';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".jinja2"]:before {
+  content: '\E04D';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".json"]:before {
+  content: '\E04F';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".jl"]:before {
+  content: '\E050';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="karma.conf.js"]:before {
+  content: '\E051';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$="karma.conf.coffee"]:before {
+  content: '\E051';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".kt"]:before {
+  content: '\E052';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".kts"]:before {
+  content: '\E052';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".dart"]:before {
+  content: '\E01D';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".less"]:before {
+  content: '\E053';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".liquid"]:before {
+  content: '\E055';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".ls"]:before {
+  content: '\E056';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".lua"]:before {
+  content: '\E058';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".markdown"]:before {
+  content: '\E05A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".md"]:before {
+  content: '\E05A';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".argdown"]:before {
+  content: '\E003';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ad"]:before {
+  content: '\E003';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="README.md"]:before {
+  content: '\E047';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="CHANGELOG.md"]:before {
+  content: '\E010';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="CHANGELOG"]:before {
+  content: '\E010';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="CHANGES.md"]:before {
+  content: '\E010';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="VERSION.md"]:before {
+  content: '\E010';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="VERSION"]:before {
+  content: '\E010';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="mvnw"]:before {
+  content: '\E05B';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".mustache"]:before {
+  content: '\E05D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".stache"]:before {
+  content: '\E05D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".njk"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".nunjucks"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".nunjs"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".nunj"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".njs"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".nj"]:before {
+  content: '\E061';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".npm-debug.log"]:before {
+  content: '\E05F';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".npmignore"]:before {
+  content: '\E05F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".npmrc"]:before {
+  content: '\E05F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".ml"]:before {
+  content: '\E062';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".mli"]:before {
+  content: '\E062';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".cmx"]:before {
+  content: '\E062';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".cmxa"]:before {
+  content: '\E062';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".odata"]:before {
+  content: '\E063';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".pl"]:before {
+  content: '\E066';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".php"]:before {
+  content: '\E068';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".php.inc"]:before {
+  content: '\E068';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".pddl"]:before {
+  content: '\E064';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".plan"]:before {
+  content: '\E069';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".happenings"]:before {
+  content: '\E03D';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ps1"]:before {
+  content: '\E06B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".psd1"]:before {
+  content: '\E06B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".psm1"]:before {
+  content: '\E06B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".pug"]:before {
+  content: '\E06D';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".pp"]:before {
+  content: '\E06E';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".epp"]:before {
+  content: '\E06E';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".py"]:before {
+  content: '\E06F';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".jsx"]:before {
+  content: '\E071';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".spec.jsx"]:before {
+  content: '\E071';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".test.jsx"]:before {
+  content: '\E071';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".cjsx"]:before {
+  content: '\E071';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".tsx"]:before {
+  content: '\E071';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".spec.tsx"]:before {
+  content: '\E071';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".test.tsx"]:before {
+  content: '\E071';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".re"]:before {
+  content: '\E072';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".R"]:before {
+  content: '\E001';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".rb"]:before {
+  content: '\E074';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".erb"]:before {
+  content: '\E043';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".erb.html"]:before {
+  content: '\E043';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".html.erb"]:before {
+  content: '\E043';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".rs"]:before {
+  content: '\E075';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".sass"]:before {
+  content: '\E077';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".scss"]:before {
+  content: '\E077';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".springBeans"]:before {
+  content: '\E07F';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".slim"]:before {
+  content: '\E07D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".smarty.tpl"]:before {
+  content: '\E07E';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".sbt"]:before {
+  content: '\E078';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".scala"]:before {
+  content: '\E079';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".sol"]:before {
+  content: '\E029';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".styl"]:before {
+  content: '\E081';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".swift"]:before {
+  content: '\E084';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".sql"]:before {
+  content: '\E01E';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".tf"]:before {
+  content: '\E085';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".tf.json"]:before {
+  content: '\E085';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".tfvars"]:before {
+  content: '\E085';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".tex"]:before {
+  content: '\E086';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".sty"]:before {
+  content: '\E086';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".dtx"]:before {
+  content: '\E086';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".ins"]:before {
+  content: '\E086';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".txt"]:before {
+  content: '\E01F';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".toml"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".twig"]:before {
+  content: '\E08A';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".ts"]:before {
+  content: '\E08B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".spec.ts"]:before {
+  content: '\E08B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".test.ts"]:before {
+  content: '\E08B';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$="tsconfig.json"]:before {
+  content: '\E089';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".vala"]:before {
+  content: '\E08C';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".vapi"]:before {
+  content: '\E08C';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".vue"]:before {
+  content: '\E08E';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".wasm"]:before {
+  content: '\E08F';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".wat"]:before {
+  content: '\E090';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".xml"]:before {
+  content: '\E096';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".yml"]:before {
+  content: '\E098';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".yaml"]:before {
+  content: '\E098';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="swagger.json"]:before {
+  content: '\E04F';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$="swagger.yml"]:before {
+  content: '\E04F';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$="swagger.yaml"]:before {
+  content: '\E04F';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".jar"]:before {
+  content: '\E099';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".zip"]:before {
+  content: '\E099';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".wgt"]:before {
+  content: '\E092';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".ai"]:before {
+  content: '\E045';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$=".psd"]:before {
+  content: '\E067';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".pdf"]:before {
+  content: '\E065';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".eot"]:before {
+  content: '\E02F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".ttf"]:before {
+  content: '\E02F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".woff"]:before {
+  content: '\E02F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".woff2"]:before {
+  content: '\E02F';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".gif"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".jpg"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".jpeg"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".png"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".pxm"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".svg"]:before {
+  content: '\E083';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".svgx"]:before {
+  content: '\E046';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".sublime-project"]:before {
+  content: '\E082';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".sublime-workspace"]:before {
+  content: '\E082';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".component"]:before {
+  content: '\E076';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cls"]:before {
+  content: '\E076';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".sh"]:before {
+  content: '\E07C';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".zsh"]:before {
+  content: '\E07C';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".fish"]:before {
+  content: '\E07C';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".zshrc"]:before {
+  content: '\E07C';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".bashrc"]:before {
+  content: '\E07C';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".mov"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".ogv"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".webm"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".avi"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".mpg"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".mp4"]:before {
+  content: '\E08D';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".mp3"]:before {
+  content: '\E005';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".ogg"]:before {
+  content: '\E005';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".wav"]:before {
+  content: '\E005';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".flac"]:before {
+  content: '\E005';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".3ds"]:before {
+  content: '\E083';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".3dm"]:before {
+  content: '\E083';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".stl"]:before {
+  content: '\E083';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".obj"]:before {
+  content: '\E083';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".dae"]:before {
+  content: '\E083';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".bat"]:before {
+  content: '\E093';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".cmd"]:before {
+  content: '\E093';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="mime.types"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$="Jenkinsfile"]:before {
+  content: '\E04C';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$=".babelrc"]:before {
+  content: '\E006';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$="bower.json"]:before {
+  content: '\E007';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="Bower.json"]:before {
+  content: '\E007';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$=".bowerrc"]:before {
+  content: '\E007';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="dockerfile"]:before {
+  content: '\E021';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="Dockerfile"]:before {
+  content: '\E021';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="DOCKERFILE"]:before {
+  content: '\E021';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".dockerignore"]:before {
+  content: '\E021';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$="docker-healthcheck"]:before {
+  content: '\E021';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$="docker-compose.yml"]:before {
+  content: '\E021';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$="docker-compose.yaml"]:before {
+  content: '\E021';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$="docker-compose.override.yml"]:before {
+  content: '\E021';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$="docker-compose.override.yaml"]:before {
+  content: '\E021';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".codeclimate.yml"]:before {
+  content: '\E012';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".eslintrc"]:before {
+  content: '\E028';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".eslintrc.js"]:before {
+  content: '\E028';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".eslintrc.yaml"]:before {
+  content: '\E028';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".eslintrc.yml"]:before {
+  content: '\E028';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".eslintrc.json"]:before {
+  content: '\E028';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$=".eslintignore"]:before {
+  content: '\E028';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$=".firebaserc"]:before {
+  content: '\E02C';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="firebase.json"]:before {
+  content: '\E02C';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="geckodriver"]:before {
+  content: '\E02D';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="Gruntfile.js"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="gruntfile.babel.js"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="Gruntfile.babel.js"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="gruntfile.js"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="Gruntfile.coffee"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="gruntfile.coffee"]:before {
+  content: '\E039';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="GULPFILE"]:before {
+  content: '\E03A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$="Gulpfile"]:before {
+  content: '\E03A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$="gulpfile"]:before {
+  content: '\E03A';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$="ionic.config.json"]:before {
+  content: '\E048';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="Ionic.config.json"]:before {
+  content: '\E048';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="ionic.project"]:before {
+  content: '\E048';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="Ionic.project"]:before {
+  content: '\E048';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".jshintrc"]:before {
+  content: '\E04B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".jscsrc"]:before {
+  content: '\E04B';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="platformio.ini"]:before {
+  content: '\E06A';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="rollup.config.js"]:before {
+  content: '\E073';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$="sass-lint.yml"]:before {
+  content: '\E077';
+  color: #f55385;
+}
+.seti-icons .icon[data-name$=".stylelintrc"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".stylelintrc.json"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".stylelintrc.yaml"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".stylelintrc.yml"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".stylelintrc.js"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$=".stylelintignore"]:before {
+  content: '\E080';
+  color: #4d5a5e;
+}
+.seti-icons .icon[data-name$="stylelint.config.js"]:before {
+  content: '\E080';
+  color: #d4d7d6;
+}
+.seti-icons .icon[data-name$="yarn.clean"]:before {
+  content: '\E097';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="yarn.lock"]:before {
+  content: '\E097';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="webpack.config.js"]:before {
+  content: '\E091';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="webpack.config.build.js"]:before {
+  content: '\E091';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="webpack.common.js"]:before {
+  content: '\E091';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="webpack.dev.js"]:before {
+  content: '\E091';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="webpack.prod.js"]:before {
+  content: '\E091';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$=".direnv"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".env"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".static"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".editorconfig"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".slugignore"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".tmp"]:before {
+  content: '\E010';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".htaccess"]:before {
+  content: '\E016';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$=".key"]:before {
+  content: '\E057';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$=".cert"]:before {
+  content: '\E057';
+  color: #8dc149;
+}
+.seti-icons .icon[data-name$="LICENSE"]:before {
+  content: '\E054';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$="LICENCE"]:before {
+  content: '\E054';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$="COPYING"]:before {
+  content: '\E054';
+  color: #cbcb41;
+}
+.seti-icons .icon[data-name$="COMPILING"]:before {
+  content: '\E054';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="CONTRIBUTING"]:before {
+  content: '\E054';
+  color: #cc3e44;
+}
+.seti-icons .icon[data-name$="MAKEFILE"]:before {
+  content: '\E059';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="Makefile"]:before {
+  content: '\E059';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="makefile"]:before {
+  content: '\E059';
+  color: #e37933;
+}
+.seti-icons .icon[data-name$="QMAKEFILE"]:before {
+  content: '\E059';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="QMakefile"]:before {
+  content: '\E059';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="qmakefile"]:before {
+  content: '\E059';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="OMAKEFILE"]:before {
+  content: '\E059';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$="OMakefile"]:before {
+  content: '\E059';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$="omakefile"]:before {
+  content: '\E059';
+  color: #6d8086;
+}
+.seti-icons .icon[data-name$="CMAKELISTS.TXT"]:before {
+  content: '\E059';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="CMAKELISTS.txt"]:before {
+  content: '\E059';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="CMakeLists.txt"]:before {
+  content: '\E059';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="cmakelists.txt"]:before {
+  content: '\E059';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="Procfile"]:before {
+  content: '\E040';
+  color: #a074c4;
+}
+.seti-icons .icon[data-name$="TODO"]:before {
+  content: '\E088';
+  color: #519aba;
+}
+.seti-icons .icon[data-name$="npm-debug.log"]:before {
+  content: '\E060';
+  color: #41535b;
+}
+.seti-icons .icon[data-name$=".DS_Store"]:before {
+  content: '\E044';
+  color: #41535b;
+}
