@@ -166,332 +166,332 @@
 .icon-file-media:before,
 .icon-markdown:before,
 .title:before,
-.filetype-icon[data-name$=".bsl"]:before,
-.filetype-icon[data-name$=".mdo"]:before,
-.filetype-icon[data-name$=".asm"]:before,
-.filetype-icon[data-name$=".s"]:before,
-.filetype-icon[data-name$=".c"]:before,
-.filetype-icon[data-name$=".h"]:before,
-.filetype-icon[data-name$=".m"]:before,
-.filetype-icon[data-name$=".cs"]:before,
-.filetype-icon[data-name$=".cshtml"]:before,
-.filetype-icon[data-name$=".aspx"]:before,
-.filetype-icon[data-name$=".ascx"]:before,
-.filetype-icon[data-name$=".asax"]:before,
-.filetype-icon[data-name$=".master"]:before,
-.filetype-icon[data-name$=".cc"]:before,
-.filetype-icon[data-name$=".cpp"]:before,
-.filetype-icon[data-name$=".cxx"]:before,
-.filetype-icon[data-name$=".c++"]:before,
-.filetype-icon[data-name$=".hh"]:before,
-.filetype-icon[data-name$=".hpp"]:before,
-.filetype-icon[data-name$=".hxx"]:before,
-.filetype-icon[data-name$=".h++"]:before,
-.filetype-icon[data-name$=".mm"]:before,
-.filetype-icon[data-name$=".clj"]:before,
-.filetype-icon[data-name$=".cljs"]:before,
-.filetype-icon[data-name$=".cljc"]:before,
-.filetype-icon[data-name$=".edn"]:before,
-.filetype-icon[data-name$=".cfc"]:before,
-.filetype-icon[data-name$=".cfm"]:before,
-.filetype-icon[data-name$=".coffee"]:before,
-.filetype-icon[data-name$=".config"]:before,
-.filetype-icon[data-name$=".cfg"]:before,
-.filetype-icon[data-name$=".conf"]:before,
-.filetype-icon[data-name$=".cr"]:before,
-.filetype-icon[data-name$=".ecr"]:before,
-.filetype-icon[data-name$=".slang"]:before,
-.filetype-icon[data-name$=".cson"]:before,
-.filetype-icon[data-name$=".css"]:before,
-.filetype-icon[data-name$=".css.map"]:before,
-.filetype-icon[data-name$=".sss"]:before,
-.filetype-icon[data-name$=".csv"]:before,
-.filetype-icon[data-name$=".xls"]:before,
-.filetype-icon[data-name$=".xlsx"]:before,
-.filetype-icon[data-name$=".cake"]:before,
-.filetype-icon[data-name$=".ctp"]:before,
-.filetype-icon[data-name$=".d"]:before,
-.filetype-icon[data-name$=".doc"]:before,
-.filetype-icon[data-name$=".docx"]:before,
-.filetype-icon[data-name$=".ejs"]:before,
-.filetype-icon[data-name$=".ex"]:before,
-.filetype-icon[data-name$=".exs"]:before,
-.filetype-icon[data-name$="mix"]:before,
-.filetype-icon[data-name$=".elm"]:before,
-.filetype-icon[data-name$=".ico"]:before,
-.filetype-icon[data-name$=".fs"]:before,
-.filetype-icon[data-name$=".fsx"]:before,
-.filetype-icon[data-name$=".gitignore"]:before,
-.filetype-icon[data-name$=".gitconfig"]:before,
-.filetype-icon[data-name$=".gitkeep"]:before,
-.filetype-icon[data-name$=".gitattributes"]:before,
-.filetype-icon[data-name$=".gitmodules"]:before,
-.filetype-icon[data-name$=".go"]:before,
-.filetype-icon[data-name$=".slide"]:before,
-.filetype-icon[data-name$=".article"]:before,
-.filetype-icon[data-name$=".gradle"]:before,
-.filetype-icon[data-name$=".groovy"]:before,
-.filetype-icon[data-name$=".gsp"]:before,
-.filetype-icon[data-name$=".gql"]:before,
-.filetype-icon[data-name$=".graphql"]:before,
-.filetype-icon[data-name$=".haml"]:before,
-.filetype-icon[data-name$=".handlebars"]:before,
-.filetype-icon[data-name$=".hbs"]:before,
-.filetype-icon[data-name$=".hjs"]:before,
-.filetype-icon[data-name$=".hs"]:before,
-.filetype-icon[data-name$=".lhs"]:before,
-.filetype-icon[data-name$=".hx"]:before,
-.filetype-icon[data-name$=".hxs"]:before,
-.filetype-icon[data-name$=".hxp"]:before,
-.filetype-icon[data-name$=".hxml"]:before,
-.filetype-icon[data-name$=".html"]:before,
-.filetype-icon[data-name$=".jade"]:before,
-.filetype-icon[data-name$=".java"]:before,
-.filetype-icon[data-name$=".class"]:before,
-.filetype-icon[data-name$=".classpath"]:before,
-.filetype-icon[data-name$=".properties"]:before,
-.filetype-icon[data-name$=".js"]:before,
-.filetype-icon[data-name$=".js.map"]:before,
-.filetype-icon[data-name$=".spec.js"]:before,
-.filetype-icon[data-name$=".test.js"]:before,
-.filetype-icon[data-name$=".es"]:before,
-.filetype-icon[data-name$=".es5"]:before,
-.filetype-icon[data-name$=".es6"]:before,
-.filetype-icon[data-name$=".es7"]:before,
-.filetype-icon[data-name$=".jinja"]:before,
-.filetype-icon[data-name$=".jinja2"]:before,
-.filetype-icon[data-name$=".json"]:before,
-.filetype-icon[data-name$=".jl"]:before,
-.filetype-icon[data-name$="karma.conf.js"]:before,
-.filetype-icon[data-name$="karma.conf.coffee"]:before,
-.filetype-icon[data-name$=".kt"]:before,
-.filetype-icon[data-name$=".kts"]:before,
-.filetype-icon[data-name$=".dart"]:before,
-.filetype-icon[data-name$=".less"]:before,
-.filetype-icon[data-name$=".liquid"]:before,
-.filetype-icon[data-name$=".ls"]:before,
-.filetype-icon[data-name$=".lua"]:before,
-.filetype-icon[data-name$=".markdown"]:before,
-.filetype-icon[data-name$=".md"]:before,
-.filetype-icon[data-name$=".argdown"]:before,
-.filetype-icon[data-name$=".ad"]:before,
-.filetype-icon[data-name$="README.md"]:before,
-.filetype-icon[data-name$="CHANGELOG.md"]:before,
-.filetype-icon[data-name$="CHANGELOG"]:before,
-.filetype-icon[data-name$="CHANGES.md"]:before,
-.filetype-icon[data-name$="VERSION.md"]:before,
-.filetype-icon[data-name$="VERSION"]:before,
-.filetype-icon[data-name$="mvnw"]:before,
-.filetype-icon[data-name$=".mustache"]:before,
-.filetype-icon[data-name$=".stache"]:before,
-.filetype-icon[data-name$=".njk"]:before,
-.filetype-icon[data-name$=".nunjucks"]:before,
-.filetype-icon[data-name$=".nunjs"]:before,
-.filetype-icon[data-name$=".nunj"]:before,
-.filetype-icon[data-name$=".njs"]:before,
-.filetype-icon[data-name$=".nj"]:before,
-.filetype-icon[data-name$=".npm-debug.log"]:before,
-.filetype-icon[data-name$=".npmignore"]:before,
-.filetype-icon[data-name$=".npmrc"]:before,
-.filetype-icon[data-name$=".ml"]:before,
-.filetype-icon[data-name$=".mli"]:before,
-.filetype-icon[data-name$=".cmx"]:before,
-.filetype-icon[data-name$=".cmxa"]:before,
-.filetype-icon[data-name$=".odata"]:before,
-.filetype-icon[data-name$=".pl"]:before,
-.filetype-icon[data-name$=".php"]:before,
-.filetype-icon[data-name$=".php.inc"]:before,
-.filetype-icon[data-name$=".pddl"]:before,
-.filetype-icon[data-name$=".plan"]:before,
-.filetype-icon[data-name$=".happenings"]:before,
-.filetype-icon[data-name$=".ps1"]:before,
-.filetype-icon[data-name$=".psd1"]:before,
-.filetype-icon[data-name$=".psm1"]:before,
-.filetype-icon[data-name$=".pug"]:before,
-.filetype-icon[data-name$=".pp"]:before,
-.filetype-icon[data-name$=".epp"]:before,
-.filetype-icon[data-name$=".py"]:before,
-.filetype-icon[data-name$=".jsx"]:before,
-.filetype-icon[data-name$=".spec.jsx"]:before,
-.filetype-icon[data-name$=".test.jsx"]:before,
-.filetype-icon[data-name$=".cjsx"]:before,
-.filetype-icon[data-name$=".tsx"]:before,
-.filetype-icon[data-name$=".spec.tsx"]:before,
-.filetype-icon[data-name$=".test.tsx"]:before,
-.filetype-icon[data-name$=".re"]:before,
-.filetype-icon[data-name$=".R"]:before,
-.filetype-icon[data-name$=".rb"]:before,
-.filetype-icon[data-name$=".erb"]:before,
-.filetype-icon[data-name$=".erb.html"]:before,
-.filetype-icon[data-name$=".html.erb"]:before,
-.filetype-icon[data-name$=".rs"]:before,
-.filetype-icon[data-name$=".sass"]:before,
-.filetype-icon[data-name$=".scss"]:before,
-.filetype-icon[data-name$=".springBeans"]:before,
-.filetype-icon[data-name$=".slim"]:before,
-.filetype-icon[data-name$=".smarty.tpl"]:before,
-.filetype-icon[data-name$=".sbt"]:before,
-.filetype-icon[data-name$=".scala"]:before,
-.filetype-icon[data-name$=".sol"]:before,
-.filetype-icon[data-name$=".styl"]:before,
-.filetype-icon[data-name$=".swift"]:before,
-.filetype-icon[data-name$=".sql"]:before,
-.filetype-icon[data-name$=".tf"]:before,
-.filetype-icon[data-name$=".tf.json"]:before,
-.filetype-icon[data-name$=".tfvars"]:before,
-.filetype-icon[data-name$=".tex"]:before,
-.filetype-icon[data-name$=".sty"]:before,
-.filetype-icon[data-name$=".dtx"]:before,
-.filetype-icon[data-name$=".ins"]:before,
-.filetype-icon[data-name$=".txt"]:before,
-.filetype-icon[data-name$=".toml"]:before,
-.filetype-icon[data-name$=".twig"]:before,
-.filetype-icon[data-name$=".ts"]:before,
-.filetype-icon[data-name$=".spec.ts"]:before,
-.filetype-icon[data-name$=".test.ts"]:before,
-.filetype-icon[data-name$="tsconfig.json"]:before,
-.filetype-icon[data-name$=".vala"]:before,
-.filetype-icon[data-name$=".vapi"]:before,
-.filetype-icon[data-name$=".vue"]:before,
-.filetype-icon[data-name$=".wasm"]:before,
-.filetype-icon[data-name$=".wat"]:before,
-.filetype-icon[data-name$=".xml"]:before,
-.filetype-icon[data-name$=".yml"]:before,
-.filetype-icon[data-name$=".yaml"]:before,
-.filetype-icon[data-name$="swagger.json"]:before,
-.filetype-icon[data-name$="swagger.yml"]:before,
-.filetype-icon[data-name$="swagger.yaml"]:before,
-.filetype-icon[data-name$=".jar"]:before,
-.filetype-icon[data-name$=".zip"]:before,
-.filetype-icon[data-name$=".wgt"]:before,
-.filetype-icon[data-name$=".ai"]:before,
-.filetype-icon[data-name$=".psd"]:before,
-.filetype-icon[data-name$=".pdf"]:before,
-.filetype-icon[data-name$=".eot"]:before,
-.filetype-icon[data-name$=".ttf"]:before,
-.filetype-icon[data-name$=".woff"]:before,
-.filetype-icon[data-name$=".woff2"]:before,
-.filetype-icon[data-name$=".gif"]:before,
-.filetype-icon[data-name$=".jpg"]:before,
-.filetype-icon[data-name$=".jpeg"]:before,
-.filetype-icon[data-name$=".png"]:before,
-.filetype-icon[data-name$=".pxm"]:before,
-.filetype-icon[data-name$=".svg"]:before,
-.filetype-icon[data-name$=".svgx"]:before,
-.filetype-icon[data-name$=".sublime-project"]:before,
-.filetype-icon[data-name$=".sublime-workspace"]:before,
-.filetype-icon[data-name$=".component"]:before,
-.filetype-icon[data-name$=".cls"]:before,
-.filetype-icon[data-name$=".sh"]:before,
-.filetype-icon[data-name$=".zsh"]:before,
-.filetype-icon[data-name$=".fish"]:before,
-.filetype-icon[data-name$=".zshrc"]:before,
-.filetype-icon[data-name$=".bashrc"]:before,
-.filetype-icon[data-name$=".mov"]:before,
-.filetype-icon[data-name$=".ogv"]:before,
-.filetype-icon[data-name$=".webm"]:before,
-.filetype-icon[data-name$=".avi"]:before,
-.filetype-icon[data-name$=".mpg"]:before,
-.filetype-icon[data-name$=".mp4"]:before,
-.filetype-icon[data-name$=".mp3"]:before,
-.filetype-icon[data-name$=".ogg"]:before,
-.filetype-icon[data-name$=".wav"]:before,
-.filetype-icon[data-name$=".flac"]:before,
-.filetype-icon[data-name$=".3ds"]:before,
-.filetype-icon[data-name$=".3dm"]:before,
-.filetype-icon[data-name$=".stl"]:before,
-.filetype-icon[data-name$=".obj"]:before,
-.filetype-icon[data-name$=".dae"]:before,
-.filetype-icon[data-name$=".bat"]:before,
-.filetype-icon[data-name$=".cmd"]:before,
-.filetype-icon[data-name$="mime.types"]:before,
-.filetype-icon[data-name$="Jenkinsfile"]:before,
-.filetype-icon[data-name$=".babelrc"]:before,
-.filetype-icon[data-name$="bower.json"]:before,
-.filetype-icon[data-name$="Bower.json"]:before,
-.filetype-icon[data-name$=".bowerrc"]:before,
-.filetype-icon[data-name$="dockerfile"]:before,
-.filetype-icon[data-name$="Dockerfile"]:before,
-.filetype-icon[data-name$="DOCKERFILE"]:before,
-.filetype-icon[data-name$=".dockerignore"]:before,
-.filetype-icon[data-name$="docker-healthcheck"]:before,
-.filetype-icon[data-name$="docker-compose.yml"]:before,
-.filetype-icon[data-name$="docker-compose.yaml"]:before,
-.filetype-icon[data-name$="docker-compose.override.yml"]:before,
-.filetype-icon[data-name$="docker-compose.override.yaml"]:before,
-.filetype-icon[data-name$=".codeclimate.yml"]:before,
-.filetype-icon[data-name$=".eslintrc"]:before,
-.filetype-icon[data-name$=".eslintrc.js"]:before,
-.filetype-icon[data-name$=".eslintrc.yaml"]:before,
-.filetype-icon[data-name$=".eslintrc.yml"]:before,
-.filetype-icon[data-name$=".eslintrc.json"]:before,
-.filetype-icon[data-name$=".eslintignore"]:before,
-.filetype-icon[data-name$=".firebaserc"]:before,
-.filetype-icon[data-name$="firebase.json"]:before,
-.filetype-icon[data-name$="geckodriver"]:before,
-.filetype-icon[data-name$="Gruntfile.js"]:before,
-.filetype-icon[data-name$="gruntfile.babel.js"]:before,
-.filetype-icon[data-name$="Gruntfile.babel.js"]:before,
-.filetype-icon[data-name$="gruntfile.js"]:before,
-.filetype-icon[data-name$="Gruntfile.coffee"]:before,
-.filetype-icon[data-name$="gruntfile.coffee"]:before,
-.filetype-icon[data-name$="GULPFILE"]:before,
-.filetype-icon[data-name$="Gulpfile"]:before,
-.filetype-icon[data-name$="gulpfile"]:before,
-.filetype-icon[data-name$="ionic.config.json"]:before,
-.filetype-icon[data-name$="Ionic.config.json"]:before,
-.filetype-icon[data-name$="ionic.project"]:before,
-.filetype-icon[data-name$="Ionic.project"]:before,
-.filetype-icon[data-name$=".jshintrc"]:before,
-.filetype-icon[data-name$=".jscsrc"]:before,
-.filetype-icon[data-name$="platformio.ini"]:before,
-.filetype-icon[data-name$="rollup.config.js"]:before,
-.filetype-icon[data-name$="sass-lint.yml"]:before,
-.filetype-icon[data-name$=".stylelintrc"]:before,
-.filetype-icon[data-name$=".stylelintrc.json"]:before,
-.filetype-icon[data-name$=".stylelintrc.yaml"]:before,
-.filetype-icon[data-name$=".stylelintrc.yml"]:before,
-.filetype-icon[data-name$=".stylelintrc.js"]:before,
-.filetype-icon[data-name$=".stylelintignore"]:before,
-.filetype-icon[data-name$="stylelint.config.js"]:before,
-.filetype-icon[data-name$="yarn.clean"]:before,
-.filetype-icon[data-name$="yarn.lock"]:before,
-.filetype-icon[data-name$="webpack.config.js"]:before,
-.filetype-icon[data-name$="webpack.config.build.js"]:before,
-.filetype-icon[data-name$="webpack.common.js"]:before,
-.filetype-icon[data-name$="webpack.dev.js"]:before,
-.filetype-icon[data-name$="webpack.prod.js"]:before,
-.filetype-icon[data-name$=".direnv"]:before,
-.filetype-icon[data-name$=".env"]:before,
-.filetype-icon[data-name$=".static"]:before,
-.filetype-icon[data-name$=".editorconfig"]:before,
-.filetype-icon[data-name$=".slugignore"]:before,
-.filetype-icon[data-name$=".tmp"]:before,
-.filetype-icon[data-name$=".htaccess"]:before,
-.filetype-icon[data-name$=".key"]:before,
-.filetype-icon[data-name$=".cert"]:before,
-.filetype-icon[data-name$="LICENSE"]:before,
-.filetype-icon[data-name$="LICENCE"]:before,
-.filetype-icon[data-name$="COPYING"]:before,
-.filetype-icon[data-name$="COMPILING"]:before,
-.filetype-icon[data-name$="CONTRIBUTING"]:before,
-.filetype-icon[data-name$="MAKEFILE"]:before,
-.filetype-icon[data-name$="Makefile"]:before,
-.filetype-icon[data-name$="makefile"]:before,
-.filetype-icon[data-name$="QMAKEFILE"]:before,
-.filetype-icon[data-name$="QMakefile"]:before,
-.filetype-icon[data-name$="qmakefile"]:before,
-.filetype-icon[data-name$="OMAKEFILE"]:before,
-.filetype-icon[data-name$="OMakefile"]:before,
-.filetype-icon[data-name$="omakefile"]:before,
-.filetype-icon[data-name$="CMAKELISTS.TXT"]:before,
-.filetype-icon[data-name$="CMAKELISTS.txt"]:before,
-.filetype-icon[data-name$="CMakeLists.txt"]:before,
-.filetype-icon[data-name$="cmakelists.txt"]:before,
-.filetype-icon[data-name$="Procfile"]:before,
-.filetype-icon[data-name$="TODO"]:before,
-.filetype-icon[data-name$="npm-debug.log"]:before,
-.filetype-icon[data-name$=".DS_Store"]:before {
+.filetype-icon[data-filename$=".bsl"]:before,
+.filetype-icon[data-filename$=".mdo"]:before,
+.filetype-icon[data-filename$=".asm"]:before,
+.filetype-icon[data-filename$=".s"]:before,
+.filetype-icon[data-filename$=".c"]:before,
+.filetype-icon[data-filename$=".h"]:before,
+.filetype-icon[data-filename$=".m"]:before,
+.filetype-icon[data-filename$=".cs"]:before,
+.filetype-icon[data-filename$=".cshtml"]:before,
+.filetype-icon[data-filename$=".aspx"]:before,
+.filetype-icon[data-filename$=".ascx"]:before,
+.filetype-icon[data-filename$=".asax"]:before,
+.filetype-icon[data-filename$=".master"]:before,
+.filetype-icon[data-filename$=".cc"]:before,
+.filetype-icon[data-filename$=".cpp"]:before,
+.filetype-icon[data-filename$=".cxx"]:before,
+.filetype-icon[data-filename$=".c++"]:before,
+.filetype-icon[data-filename$=".hh"]:before,
+.filetype-icon[data-filename$=".hpp"]:before,
+.filetype-icon[data-filename$=".hxx"]:before,
+.filetype-icon[data-filename$=".h++"]:before,
+.filetype-icon[data-filename$=".mm"]:before,
+.filetype-icon[data-filename$=".clj"]:before,
+.filetype-icon[data-filename$=".cljs"]:before,
+.filetype-icon[data-filename$=".cljc"]:before,
+.filetype-icon[data-filename$=".edn"]:before,
+.filetype-icon[data-filename$=".cfc"]:before,
+.filetype-icon[data-filename$=".cfm"]:before,
+.filetype-icon[data-filename$=".coffee"]:before,
+.filetype-icon[data-filename$=".config"]:before,
+.filetype-icon[data-filename$=".cfg"]:before,
+.filetype-icon[data-filename$=".conf"]:before,
+.filetype-icon[data-filename$=".cr"]:before,
+.filetype-icon[data-filename$=".ecr"]:before,
+.filetype-icon[data-filename$=".slang"]:before,
+.filetype-icon[data-filename$=".cson"]:before,
+.filetype-icon[data-filename$=".css"]:before,
+.filetype-icon[data-filename$=".css.map"]:before,
+.filetype-icon[data-filename$=".sss"]:before,
+.filetype-icon[data-filename$=".csv"]:before,
+.filetype-icon[data-filename$=".xls"]:before,
+.filetype-icon[data-filename$=".xlsx"]:before,
+.filetype-icon[data-filename$=".cake"]:before,
+.filetype-icon[data-filename$=".ctp"]:before,
+.filetype-icon[data-filename$=".d"]:before,
+.filetype-icon[data-filename$=".doc"]:before,
+.filetype-icon[data-filename$=".docx"]:before,
+.filetype-icon[data-filename$=".ejs"]:before,
+.filetype-icon[data-filename$=".ex"]:before,
+.filetype-icon[data-filename$=".exs"]:before,
+.filetype-icon[data-filename$="mix"]:before,
+.filetype-icon[data-filename$=".elm"]:before,
+.filetype-icon[data-filename$=".ico"]:before,
+.filetype-icon[data-filename$=".fs"]:before,
+.filetype-icon[data-filename$=".fsx"]:before,
+.filetype-icon[data-filename$=".gitignore"]:before,
+.filetype-icon[data-filename$=".gitconfig"]:before,
+.filetype-icon[data-filename$=".gitkeep"]:before,
+.filetype-icon[data-filename$=".gitattributes"]:before,
+.filetype-icon[data-filename$=".gitmodules"]:before,
+.filetype-icon[data-filename$=".go"]:before,
+.filetype-icon[data-filename$=".slide"]:before,
+.filetype-icon[data-filename$=".article"]:before,
+.filetype-icon[data-filename$=".gradle"]:before,
+.filetype-icon[data-filename$=".groovy"]:before,
+.filetype-icon[data-filename$=".gsp"]:before,
+.filetype-icon[data-filename$=".gql"]:before,
+.filetype-icon[data-filename$=".graphql"]:before,
+.filetype-icon[data-filename$=".haml"]:before,
+.filetype-icon[data-filename$=".handlebars"]:before,
+.filetype-icon[data-filename$=".hbs"]:before,
+.filetype-icon[data-filename$=".hjs"]:before,
+.filetype-icon[data-filename$=".hs"]:before,
+.filetype-icon[data-filename$=".lhs"]:before,
+.filetype-icon[data-filename$=".hx"]:before,
+.filetype-icon[data-filename$=".hxs"]:before,
+.filetype-icon[data-filename$=".hxp"]:before,
+.filetype-icon[data-filename$=".hxml"]:before,
+.filetype-icon[data-filename$=".html"]:before,
+.filetype-icon[data-filename$=".jade"]:before,
+.filetype-icon[data-filename$=".java"]:before,
+.filetype-icon[data-filename$=".class"]:before,
+.filetype-icon[data-filename$=".classpath"]:before,
+.filetype-icon[data-filename$=".properties"]:before,
+.filetype-icon[data-filename$=".js"]:before,
+.filetype-icon[data-filename$=".js.map"]:before,
+.filetype-icon[data-filename$=".spec.js"]:before,
+.filetype-icon[data-filename$=".test.js"]:before,
+.filetype-icon[data-filename$=".es"]:before,
+.filetype-icon[data-filename$=".es5"]:before,
+.filetype-icon[data-filename$=".es6"]:before,
+.filetype-icon[data-filename$=".es7"]:before,
+.filetype-icon[data-filename$=".jinja"]:before,
+.filetype-icon[data-filename$=".jinja2"]:before,
+.filetype-icon[data-filename$=".json"]:before,
+.filetype-icon[data-filename$=".jl"]:before,
+.filetype-icon[data-filename$="karma.conf.js"]:before,
+.filetype-icon[data-filename$="karma.conf.coffee"]:before,
+.filetype-icon[data-filename$=".kt"]:before,
+.filetype-icon[data-filename$=".kts"]:before,
+.filetype-icon[data-filename$=".dart"]:before,
+.filetype-icon[data-filename$=".less"]:before,
+.filetype-icon[data-filename$=".liquid"]:before,
+.filetype-icon[data-filename$=".ls"]:before,
+.filetype-icon[data-filename$=".lua"]:before,
+.filetype-icon[data-filename$=".markdown"]:before,
+.filetype-icon[data-filename$=".md"]:before,
+.filetype-icon[data-filename$=".argdown"]:before,
+.filetype-icon[data-filename$=".ad"]:before,
+.filetype-icon[data-filename$="README.md"]:before,
+.filetype-icon[data-filename$="CHANGELOG.md"]:before,
+.filetype-icon[data-filename$="CHANGELOG"]:before,
+.filetype-icon[data-filename$="CHANGES.md"]:before,
+.filetype-icon[data-filename$="VERSION.md"]:before,
+.filetype-icon[data-filename$="VERSION"]:before,
+.filetype-icon[data-filename$="mvnw"]:before,
+.filetype-icon[data-filename$=".mustache"]:before,
+.filetype-icon[data-filename$=".stache"]:before,
+.filetype-icon[data-filename$=".njk"]:before,
+.filetype-icon[data-filename$=".nunjucks"]:before,
+.filetype-icon[data-filename$=".nunjs"]:before,
+.filetype-icon[data-filename$=".nunj"]:before,
+.filetype-icon[data-filename$=".njs"]:before,
+.filetype-icon[data-filename$=".nj"]:before,
+.filetype-icon[data-filename$=".npm-debug.log"]:before,
+.filetype-icon[data-filename$=".npmignore"]:before,
+.filetype-icon[data-filename$=".npmrc"]:before,
+.filetype-icon[data-filename$=".ml"]:before,
+.filetype-icon[data-filename$=".mli"]:before,
+.filetype-icon[data-filename$=".cmx"]:before,
+.filetype-icon[data-filename$=".cmxa"]:before,
+.filetype-icon[data-filename$=".odata"]:before,
+.filetype-icon[data-filename$=".pl"]:before,
+.filetype-icon[data-filename$=".php"]:before,
+.filetype-icon[data-filename$=".php.inc"]:before,
+.filetype-icon[data-filename$=".pddl"]:before,
+.filetype-icon[data-filename$=".plan"]:before,
+.filetype-icon[data-filename$=".happenings"]:before,
+.filetype-icon[data-filename$=".ps1"]:before,
+.filetype-icon[data-filename$=".psd1"]:before,
+.filetype-icon[data-filename$=".psm1"]:before,
+.filetype-icon[data-filename$=".pug"]:before,
+.filetype-icon[data-filename$=".pp"]:before,
+.filetype-icon[data-filename$=".epp"]:before,
+.filetype-icon[data-filename$=".py"]:before,
+.filetype-icon[data-filename$=".jsx"]:before,
+.filetype-icon[data-filename$=".spec.jsx"]:before,
+.filetype-icon[data-filename$=".test.jsx"]:before,
+.filetype-icon[data-filename$=".cjsx"]:before,
+.filetype-icon[data-filename$=".tsx"]:before,
+.filetype-icon[data-filename$=".spec.tsx"]:before,
+.filetype-icon[data-filename$=".test.tsx"]:before,
+.filetype-icon[data-filename$=".re"]:before,
+.filetype-icon[data-filename$=".R"]:before,
+.filetype-icon[data-filename$=".rb"]:before,
+.filetype-icon[data-filename$=".erb"]:before,
+.filetype-icon[data-filename$=".erb.html"]:before,
+.filetype-icon[data-filename$=".html.erb"]:before,
+.filetype-icon[data-filename$=".rs"]:before,
+.filetype-icon[data-filename$=".sass"]:before,
+.filetype-icon[data-filename$=".scss"]:before,
+.filetype-icon[data-filename$=".springBeans"]:before,
+.filetype-icon[data-filename$=".slim"]:before,
+.filetype-icon[data-filename$=".smarty.tpl"]:before,
+.filetype-icon[data-filename$=".sbt"]:before,
+.filetype-icon[data-filename$=".scala"]:before,
+.filetype-icon[data-filename$=".sol"]:before,
+.filetype-icon[data-filename$=".styl"]:before,
+.filetype-icon[data-filename$=".swift"]:before,
+.filetype-icon[data-filename$=".sql"]:before,
+.filetype-icon[data-filename$=".tf"]:before,
+.filetype-icon[data-filename$=".tf.json"]:before,
+.filetype-icon[data-filename$=".tfvars"]:before,
+.filetype-icon[data-filename$=".tex"]:before,
+.filetype-icon[data-filename$=".sty"]:before,
+.filetype-icon[data-filename$=".dtx"]:before,
+.filetype-icon[data-filename$=".ins"]:before,
+.filetype-icon[data-filename$=".txt"]:before,
+.filetype-icon[data-filename$=".toml"]:before,
+.filetype-icon[data-filename$=".twig"]:before,
+.filetype-icon[data-filename$=".ts"]:before,
+.filetype-icon[data-filename$=".spec.ts"]:before,
+.filetype-icon[data-filename$=".test.ts"]:before,
+.filetype-icon[data-filename$="tsconfig.json"]:before,
+.filetype-icon[data-filename$=".vala"]:before,
+.filetype-icon[data-filename$=".vapi"]:before,
+.filetype-icon[data-filename$=".vue"]:before,
+.filetype-icon[data-filename$=".wasm"]:before,
+.filetype-icon[data-filename$=".wat"]:before,
+.filetype-icon[data-filename$=".xml"]:before,
+.filetype-icon[data-filename$=".yml"]:before,
+.filetype-icon[data-filename$=".yaml"]:before,
+.filetype-icon[data-filename$="swagger.json"]:before,
+.filetype-icon[data-filename$="swagger.yml"]:before,
+.filetype-icon[data-filename$="swagger.yaml"]:before,
+.filetype-icon[data-filename$=".jar"]:before,
+.filetype-icon[data-filename$=".zip"]:before,
+.filetype-icon[data-filename$=".wgt"]:before,
+.filetype-icon[data-filename$=".ai"]:before,
+.filetype-icon[data-filename$=".psd"]:before,
+.filetype-icon[data-filename$=".pdf"]:before,
+.filetype-icon[data-filename$=".eot"]:before,
+.filetype-icon[data-filename$=".ttf"]:before,
+.filetype-icon[data-filename$=".woff"]:before,
+.filetype-icon[data-filename$=".woff2"]:before,
+.filetype-icon[data-filename$=".gif"]:before,
+.filetype-icon[data-filename$=".jpg"]:before,
+.filetype-icon[data-filename$=".jpeg"]:before,
+.filetype-icon[data-filename$=".png"]:before,
+.filetype-icon[data-filename$=".pxm"]:before,
+.filetype-icon[data-filename$=".svg"]:before,
+.filetype-icon[data-filename$=".svgx"]:before,
+.filetype-icon[data-filename$=".sublime-project"]:before,
+.filetype-icon[data-filename$=".sublime-workspace"]:before,
+.filetype-icon[data-filename$=".component"]:before,
+.filetype-icon[data-filename$=".cls"]:before,
+.filetype-icon[data-filename$=".sh"]:before,
+.filetype-icon[data-filename$=".zsh"]:before,
+.filetype-icon[data-filename$=".fish"]:before,
+.filetype-icon[data-filename$=".zshrc"]:before,
+.filetype-icon[data-filename$=".bashrc"]:before,
+.filetype-icon[data-filename$=".mov"]:before,
+.filetype-icon[data-filename$=".ogv"]:before,
+.filetype-icon[data-filename$=".webm"]:before,
+.filetype-icon[data-filename$=".avi"]:before,
+.filetype-icon[data-filename$=".mpg"]:before,
+.filetype-icon[data-filename$=".mp4"]:before,
+.filetype-icon[data-filename$=".mp3"]:before,
+.filetype-icon[data-filename$=".ogg"]:before,
+.filetype-icon[data-filename$=".wav"]:before,
+.filetype-icon[data-filename$=".flac"]:before,
+.filetype-icon[data-filename$=".3ds"]:before,
+.filetype-icon[data-filename$=".3dm"]:before,
+.filetype-icon[data-filename$=".stl"]:before,
+.filetype-icon[data-filename$=".obj"]:before,
+.filetype-icon[data-filename$=".dae"]:before,
+.filetype-icon[data-filename$=".bat"]:before,
+.filetype-icon[data-filename$=".cmd"]:before,
+.filetype-icon[data-filename$="mime.types"]:before,
+.filetype-icon[data-filename$="Jenkinsfile"]:before,
+.filetype-icon[data-filename$=".babelrc"]:before,
+.filetype-icon[data-filename$="bower.json"]:before,
+.filetype-icon[data-filename$="Bower.json"]:before,
+.filetype-icon[data-filename$=".bowerrc"]:before,
+.filetype-icon[data-filename$="dockerfile"]:before,
+.filetype-icon[data-filename$="Dockerfile"]:before,
+.filetype-icon[data-filename$="DOCKERFILE"]:before,
+.filetype-icon[data-filename$=".dockerignore"]:before,
+.filetype-icon[data-filename$="docker-healthcheck"]:before,
+.filetype-icon[data-filename$="docker-compose.yml"]:before,
+.filetype-icon[data-filename$="docker-compose.yaml"]:before,
+.filetype-icon[data-filename$="docker-compose.override.yml"]:before,
+.filetype-icon[data-filename$="docker-compose.override.yaml"]:before,
+.filetype-icon[data-filename$=".codeclimate.yml"]:before,
+.filetype-icon[data-filename$=".eslintrc"]:before,
+.filetype-icon[data-filename$=".eslintrc.js"]:before,
+.filetype-icon[data-filename$=".eslintrc.yaml"]:before,
+.filetype-icon[data-filename$=".eslintrc.yml"]:before,
+.filetype-icon[data-filename$=".eslintrc.json"]:before,
+.filetype-icon[data-filename$=".eslintignore"]:before,
+.filetype-icon[data-filename$=".firebaserc"]:before,
+.filetype-icon[data-filename$="firebase.json"]:before,
+.filetype-icon[data-filename$="geckodriver"]:before,
+.filetype-icon[data-filename$="Gruntfile.js"]:before,
+.filetype-icon[data-filename$="gruntfile.babel.js"]:before,
+.filetype-icon[data-filename$="Gruntfile.babel.js"]:before,
+.filetype-icon[data-filename$="gruntfile.js"]:before,
+.filetype-icon[data-filename$="Gruntfile.coffee"]:before,
+.filetype-icon[data-filename$="gruntfile.coffee"]:before,
+.filetype-icon[data-filename$="GULPFILE"]:before,
+.filetype-icon[data-filename$="Gulpfile"]:before,
+.filetype-icon[data-filename$="gulpfile"]:before,
+.filetype-icon[data-filename$="ionic.config.json"]:before,
+.filetype-icon[data-filename$="Ionic.config.json"]:before,
+.filetype-icon[data-filename$="ionic.project"]:before,
+.filetype-icon[data-filename$="Ionic.project"]:before,
+.filetype-icon[data-filename$=".jshintrc"]:before,
+.filetype-icon[data-filename$=".jscsrc"]:before,
+.filetype-icon[data-filename$="platformio.ini"]:before,
+.filetype-icon[data-filename$="rollup.config.js"]:before,
+.filetype-icon[data-filename$="sass-lint.yml"]:before,
+.filetype-icon[data-filename$=".stylelintrc"]:before,
+.filetype-icon[data-filename$=".stylelintrc.json"]:before,
+.filetype-icon[data-filename$=".stylelintrc.yaml"]:before,
+.filetype-icon[data-filename$=".stylelintrc.yml"]:before,
+.filetype-icon[data-filename$=".stylelintrc.js"]:before,
+.filetype-icon[data-filename$=".stylelintignore"]:before,
+.filetype-icon[data-filename$="stylelint.config.js"]:before,
+.filetype-icon[data-filename$="yarn.clean"]:before,
+.filetype-icon[data-filename$="yarn.lock"]:before,
+.filetype-icon[data-filename$="webpack.config.js"]:before,
+.filetype-icon[data-filename$="webpack.config.build.js"]:before,
+.filetype-icon[data-filename$="webpack.common.js"]:before,
+.filetype-icon[data-filename$="webpack.dev.js"]:before,
+.filetype-icon[data-filename$="webpack.prod.js"]:before,
+.filetype-icon[data-filename$=".direnv"]:before,
+.filetype-icon[data-filename$=".env"]:before,
+.filetype-icon[data-filename$=".static"]:before,
+.filetype-icon[data-filename$=".editorconfig"]:before,
+.filetype-icon[data-filename$=".slugignore"]:before,
+.filetype-icon[data-filename$=".tmp"]:before,
+.filetype-icon[data-filename$=".htaccess"]:before,
+.filetype-icon[data-filename$=".key"]:before,
+.filetype-icon[data-filename$=".cert"]:before,
+.filetype-icon[data-filename$="LICENSE"]:before,
+.filetype-icon[data-filename$="LICENCE"]:before,
+.filetype-icon[data-filename$="COPYING"]:before,
+.filetype-icon[data-filename$="COMPILING"]:before,
+.filetype-icon[data-filename$="CONTRIBUTING"]:before,
+.filetype-icon[data-filename$="MAKEFILE"]:before,
+.filetype-icon[data-filename$="Makefile"]:before,
+.filetype-icon[data-filename$="makefile"]:before,
+.filetype-icon[data-filename$="QMAKEFILE"]:before,
+.filetype-icon[data-filename$="QMakefile"]:before,
+.filetype-icon[data-filename$="qmakefile"]:before,
+.filetype-icon[data-filename$="OMAKEFILE"]:before,
+.filetype-icon[data-filename$="OMakefile"]:before,
+.filetype-icon[data-filename$="omakefile"]:before,
+.filetype-icon[data-filename$="CMAKELISTS.TXT"]:before,
+.filetype-icon[data-filename$="CMAKELISTS.txt"]:before,
+.filetype-icon[data-filename$="CMakeLists.txt"]:before,
+.filetype-icon[data-filename$="cmakelists.txt"]:before,
+.filetype-icon[data-filename$="Procfile"]:before,
+.filetype-icon[data-filename$="TODO"]:before,
+.filetype-icon[data-filename$="npm-debug.log"]:before,
+.filetype-icon[data-filename$=".DS_Store"]:before {
   font-family: 'seti';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1123,1307 +1123,1307 @@
   content: '\E01F';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".bsl"]:before {
+.filetype-icon[data-filename$=".bsl"]:before {
   content: '\E008';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".mdo"]:before {
+.filetype-icon[data-filename$=".mdo"]:before {
   content: '\E05C';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".asm"]:before {
+.filetype-icon[data-filename$=".asm"]:before {
   content: '\E004';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".s"]:before {
+.filetype-icon[data-filename$=".s"]:before {
   content: '\E004';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".c"]:before {
+.filetype-icon[data-filename$=".c"]:before {
   content: '\E00A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".h"]:before {
+.filetype-icon[data-filename$=".h"]:before {
   content: '\E00A';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".m"]:before {
+.filetype-icon[data-filename$=".m"]:before {
   content: '\E00A';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".cs"]:before {
+.filetype-icon[data-filename$=".cs"]:before {
   content: '\E009';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cshtml"]:before {
+.filetype-icon[data-filename$=".cshtml"]:before {
   content: '\E042';
   color: #519aba;
 }
-.filetype-icon[data-name$=".aspx"]:before {
+.filetype-icon[data-filename$=".aspx"]:before {
   content: '\E042';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ascx"]:before {
+.filetype-icon[data-filename$=".ascx"]:before {
   content: '\E042';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".asax"]:before {
+.filetype-icon[data-filename$=".asax"]:before {
   content: '\E042';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".master"]:before {
+.filetype-icon[data-filename$=".master"]:before {
   content: '\E042';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".cc"]:before {
+.filetype-icon[data-filename$=".cc"]:before {
   content: '\E017';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cpp"]:before {
+.filetype-icon[data-filename$=".cpp"]:before {
   content: '\E017';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cxx"]:before {
+.filetype-icon[data-filename$=".cxx"]:before {
   content: '\E017';
   color: #519aba;
 }
-.filetype-icon[data-name$=".c++"]:before {
+.filetype-icon[data-filename$=".c++"]:before {
   content: '\E017';
   color: #519aba;
 }
-.filetype-icon[data-name$=".hh"]:before {
+.filetype-icon[data-filename$=".hh"]:before {
   content: '\E017';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".hpp"]:before {
+.filetype-icon[data-filename$=".hpp"]:before {
   content: '\E017';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".hxx"]:before {
+.filetype-icon[data-filename$=".hxx"]:before {
   content: '\E017';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".h++"]:before {
+.filetype-icon[data-filename$=".h++"]:before {
   content: '\E017';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".mm"]:before {
+.filetype-icon[data-filename$=".mm"]:before {
   content: '\E017';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".clj"]:before {
+.filetype-icon[data-filename$=".clj"]:before {
   content: '\E011';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".cljs"]:before {
+.filetype-icon[data-filename$=".cljs"]:before {
   content: '\E011';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".cljc"]:before {
+.filetype-icon[data-filename$=".cljc"]:before {
   content: '\E011';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".edn"]:before {
+.filetype-icon[data-filename$=".edn"]:before {
   content: '\E011';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cfc"]:before {
+.filetype-icon[data-filename$=".cfc"]:before {
   content: '\E015';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cfm"]:before {
+.filetype-icon[data-filename$=".cfm"]:before {
   content: '\E015';
   color: #519aba;
 }
-.filetype-icon[data-name$=".coffee"]:before {
+.filetype-icon[data-filename$=".coffee"]:before {
   content: '\E013';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".config"]:before {
+.filetype-icon[data-filename$=".config"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".cfg"]:before {
+.filetype-icon[data-filename$=".cfg"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".conf"]:before {
+.filetype-icon[data-filename$=".conf"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".cr"]:before {
+.filetype-icon[data-filename$=".cr"]:before {
   content: '\E018';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".ecr"]:before {
+.filetype-icon[data-filename$=".ecr"]:before {
   content: '\E019';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".slang"]:before {
+.filetype-icon[data-filename$=".slang"]:before {
   content: '\E019';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".cson"]:before {
+.filetype-icon[data-filename$=".cson"]:before {
   content: '\E04F';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".css"]:before {
+.filetype-icon[data-filename$=".css"]:before {
   content: '\E01A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".css.map"]:before {
+.filetype-icon[data-filename$=".css.map"]:before {
   content: '\E01A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".sss"]:before {
+.filetype-icon[data-filename$=".sss"]:before {
   content: '\E01A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".csv"]:before {
+.filetype-icon[data-filename$=".csv"]:before {
   content: '\E01B';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".xls"]:before {
+.filetype-icon[data-filename$=".xls"]:before {
   content: '\E095';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".xlsx"]:before {
+.filetype-icon[data-filename$=".xlsx"]:before {
   content: '\E095';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".cake"]:before {
+.filetype-icon[data-filename$=".cake"]:before {
   content: '\E00B';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".ctp"]:before {
+.filetype-icon[data-filename$=".ctp"]:before {
   content: '\E00C';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".d"]:before {
+.filetype-icon[data-filename$=".d"]:before {
   content: '\E01C';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".doc"]:before {
+.filetype-icon[data-filename$=".doc"]:before {
   content: '\E094';
   color: #519aba;
 }
-.filetype-icon[data-name$=".docx"]:before {
+.filetype-icon[data-filename$=".docx"]:before {
   content: '\E094';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ejs"]:before {
+.filetype-icon[data-filename$=".ejs"]:before {
   content: '\E023';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".ex"]:before {
+.filetype-icon[data-filename$=".ex"]:before {
   content: '\E024';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".exs"]:before {
+.filetype-icon[data-filename$=".exs"]:before {
   content: '\E025';
   color: #a074c4;
 }
-.filetype-icon[data-name$="mix"]:before {
+.filetype-icon[data-filename$="mix"]:before {
   content: '\E041';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".elm"]:before {
+.filetype-icon[data-filename$=".elm"]:before {
   content: '\E026';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ico"]:before {
+.filetype-icon[data-filename$=".ico"]:before {
   content: '\E02B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".fs"]:before {
+.filetype-icon[data-filename$=".fs"]:before {
   content: '\E02A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".fsx"]:before {
+.filetype-icon[data-filename$=".fsx"]:before {
   content: '\E02A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".gitignore"]:before {
+.filetype-icon[data-filename$=".gitignore"]:before {
   content: '\E030';
   color: #41535b;
 }
-.filetype-icon[data-name$=".gitconfig"]:before {
+.filetype-icon[data-filename$=".gitconfig"]:before {
   content: '\E030';
   color: #41535b;
 }
-.filetype-icon[data-name$=".gitkeep"]:before {
+.filetype-icon[data-filename$=".gitkeep"]:before {
   content: '\E030';
   color: #41535b;
 }
-.filetype-icon[data-name$=".gitattributes"]:before {
+.filetype-icon[data-filename$=".gitattributes"]:before {
   content: '\E030';
   color: #41535b;
 }
-.filetype-icon[data-name$=".gitmodules"]:before {
+.filetype-icon[data-filename$=".gitmodules"]:before {
   content: '\E030';
   color: #41535b;
 }
-.filetype-icon[data-name$=".go"]:before {
+.filetype-icon[data-filename$=".go"]:before {
   content: '\E035';
   color: #519aba;
 }
-.filetype-icon[data-name$=".slide"]:before {
+.filetype-icon[data-filename$=".slide"]:before {
   content: '\E034';
   color: #519aba;
 }
-.filetype-icon[data-name$=".article"]:before {
+.filetype-icon[data-filename$=".article"]:before {
   content: '\E034';
   color: #519aba;
 }
-.filetype-icon[data-name$=".gradle"]:before {
+.filetype-icon[data-filename$=".gradle"]:before {
   content: '\E036';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".groovy"]:before {
+.filetype-icon[data-filename$=".groovy"]:before {
   content: '\E037';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".gsp"]:before {
+.filetype-icon[data-filename$=".gsp"]:before {
   content: '\E037';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".gql"]:before {
+.filetype-icon[data-filename$=".gql"]:before {
   content: '\E038';
   color: #f55385;
 }
-.filetype-icon[data-name$=".graphql"]:before {
+.filetype-icon[data-filename$=".graphql"]:before {
   content: '\E038';
   color: #f55385;
 }
-.filetype-icon[data-name$=".haml"]:before {
+.filetype-icon[data-filename$=".haml"]:before {
   content: '\E03C';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".handlebars"]:before {
+.filetype-icon[data-filename$=".handlebars"]:before {
   content: '\E05D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".hbs"]:before {
+.filetype-icon[data-filename$=".hbs"]:before {
   content: '\E05D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".hjs"]:before {
+.filetype-icon[data-filename$=".hjs"]:before {
   content: '\E05D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".hs"]:before {
+.filetype-icon[data-filename$=".hs"]:before {
   content: '\E03E';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".lhs"]:before {
+.filetype-icon[data-filename$=".lhs"]:before {
   content: '\E03E';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".hx"]:before {
+.filetype-icon[data-filename$=".hx"]:before {
   content: '\E03F';
   color: #e37933;
 }
-.filetype-icon[data-name$=".hxs"]:before {
+.filetype-icon[data-filename$=".hxs"]:before {
   content: '\E03F';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".hxp"]:before {
+.filetype-icon[data-filename$=".hxp"]:before {
   content: '\E03F';
   color: #519aba;
 }
-.filetype-icon[data-name$=".hxml"]:before {
+.filetype-icon[data-filename$=".hxml"]:before {
   content: '\E03F';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".html"]:before {
+.filetype-icon[data-filename$=".html"]:before {
   content: '\E042';
   color: #e37933;
 }
-.filetype-icon[data-name$=".jade"]:before {
+.filetype-icon[data-filename$=".jade"]:before {
   content: '\E049';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".java"]:before {
+.filetype-icon[data-filename$=".java"]:before {
   content: '\E04A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".class"]:before {
+.filetype-icon[data-filename$=".class"]:before {
   content: '\E04A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".classpath"]:before {
+.filetype-icon[data-filename$=".classpath"]:before {
   content: '\E04A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".properties"]:before {
+.filetype-icon[data-filename$=".properties"]:before {
   content: '\E04A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".js"]:before {
+.filetype-icon[data-filename$=".js"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".js.map"]:before {
+.filetype-icon[data-filename$=".js.map"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".spec.js"]:before {
+.filetype-icon[data-filename$=".spec.js"]:before {
   content: '\E04B';
   color: #e37933;
 }
-.filetype-icon[data-name$=".test.js"]:before {
+.filetype-icon[data-filename$=".test.js"]:before {
   content: '\E04B';
   color: #e37933;
 }
-.filetype-icon[data-name$=".es"]:before {
+.filetype-icon[data-filename$=".es"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".es5"]:before {
+.filetype-icon[data-filename$=".es5"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".es6"]:before {
+.filetype-icon[data-filename$=".es6"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".es7"]:before {
+.filetype-icon[data-filename$=".es7"]:before {
   content: '\E04B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".jinja"]:before {
+.filetype-icon[data-filename$=".jinja"]:before {
   content: '\E04D';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".jinja2"]:before {
+.filetype-icon[data-filename$=".jinja2"]:before {
   content: '\E04D';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".json"]:before {
+.filetype-icon[data-filename$=".json"]:before {
   content: '\E04F';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".jl"]:before {
+.filetype-icon[data-filename$=".jl"]:before {
   content: '\E050';
   color: #a074c4;
 }
-.filetype-icon[data-name$="karma.conf.js"]:before {
+.filetype-icon[data-filename$="karma.conf.js"]:before {
   content: '\E051';
   color: #8dc149;
 }
-.filetype-icon[data-name$="karma.conf.coffee"]:before {
+.filetype-icon[data-filename$="karma.conf.coffee"]:before {
   content: '\E051';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".kt"]:before {
+.filetype-icon[data-filename$=".kt"]:before {
   content: '\E052';
   color: #e37933;
 }
-.filetype-icon[data-name$=".kts"]:before {
+.filetype-icon[data-filename$=".kts"]:before {
   content: '\E052';
   color: #e37933;
 }
-.filetype-icon[data-name$=".dart"]:before {
+.filetype-icon[data-filename$=".dart"]:before {
   content: '\E01D';
   color: #519aba;
 }
-.filetype-icon[data-name$=".less"]:before {
+.filetype-icon[data-filename$=".less"]:before {
   content: '\E053';
   color: #519aba;
 }
-.filetype-icon[data-name$=".liquid"]:before {
+.filetype-icon[data-filename$=".liquid"]:before {
   content: '\E055';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".ls"]:before {
+.filetype-icon[data-filename$=".ls"]:before {
   content: '\E056';
   color: #519aba;
 }
-.filetype-icon[data-name$=".lua"]:before {
+.filetype-icon[data-filename$=".lua"]:before {
   content: '\E058';
   color: #519aba;
 }
-.filetype-icon[data-name$=".markdown"]:before {
+.filetype-icon[data-filename$=".markdown"]:before {
   content: '\E05A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".md"]:before {
+.filetype-icon[data-filename$=".md"]:before {
   content: '\E05A';
   color: #519aba;
 }
-.filetype-icon[data-name$=".argdown"]:before {
+.filetype-icon[data-filename$=".argdown"]:before {
   content: '\E003';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ad"]:before {
+.filetype-icon[data-filename$=".ad"]:before {
   content: '\E003';
   color: #519aba;
 }
-.filetype-icon[data-name$="README.md"]:before {
+.filetype-icon[data-filename$="README.md"]:before {
   content: '\E047';
   color: #519aba;
 }
-.filetype-icon[data-name$="CHANGELOG.md"]:before {
+.filetype-icon[data-filename$="CHANGELOG.md"]:before {
   content: '\E010';
   color: #519aba;
 }
-.filetype-icon[data-name$="CHANGELOG"]:before {
+.filetype-icon[data-filename$="CHANGELOG"]:before {
   content: '\E010';
   color: #519aba;
 }
-.filetype-icon[data-name$="CHANGES.md"]:before {
+.filetype-icon[data-filename$="CHANGES.md"]:before {
   content: '\E010';
   color: #519aba;
 }
-.filetype-icon[data-name$="VERSION.md"]:before {
+.filetype-icon[data-filename$="VERSION.md"]:before {
   content: '\E010';
   color: #519aba;
 }
-.filetype-icon[data-name$="VERSION"]:before {
+.filetype-icon[data-filename$="VERSION"]:before {
   content: '\E010';
   color: #519aba;
 }
-.filetype-icon[data-name$="mvnw"]:before {
+.filetype-icon[data-filename$="mvnw"]:before {
   content: '\E05B';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".mustache"]:before {
+.filetype-icon[data-filename$=".mustache"]:before {
   content: '\E05D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".stache"]:before {
+.filetype-icon[data-filename$=".stache"]:before {
   content: '\E05D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".njk"]:before {
+.filetype-icon[data-filename$=".njk"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".nunjucks"]:before {
+.filetype-icon[data-filename$=".nunjucks"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".nunjs"]:before {
+.filetype-icon[data-filename$=".nunjs"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".nunj"]:before {
+.filetype-icon[data-filename$=".nunj"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".njs"]:before {
+.filetype-icon[data-filename$=".njs"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".nj"]:before {
+.filetype-icon[data-filename$=".nj"]:before {
   content: '\E061';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".npm-debug.log"]:before {
+.filetype-icon[data-filename$=".npm-debug.log"]:before {
   content: '\E05F';
   color: #41535b;
 }
-.filetype-icon[data-name$=".npmignore"]:before {
+.filetype-icon[data-filename$=".npmignore"]:before {
   content: '\E05F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".npmrc"]:before {
+.filetype-icon[data-filename$=".npmrc"]:before {
   content: '\E05F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".ml"]:before {
+.filetype-icon[data-filename$=".ml"]:before {
   content: '\E062';
   color: #e37933;
 }
-.filetype-icon[data-name$=".mli"]:before {
+.filetype-icon[data-filename$=".mli"]:before {
   content: '\E062';
   color: #e37933;
 }
-.filetype-icon[data-name$=".cmx"]:before {
+.filetype-icon[data-filename$=".cmx"]:before {
   content: '\E062';
   color: #e37933;
 }
-.filetype-icon[data-name$=".cmxa"]:before {
+.filetype-icon[data-filename$=".cmxa"]:before {
   content: '\E062';
   color: #e37933;
 }
-.filetype-icon[data-name$=".odata"]:before {
+.filetype-icon[data-filename$=".odata"]:before {
   content: '\E063';
   color: #e37933;
 }
-.filetype-icon[data-name$=".pl"]:before {
+.filetype-icon[data-filename$=".pl"]:before {
   content: '\E066';
   color: #519aba;
 }
-.filetype-icon[data-name$=".php"]:before {
+.filetype-icon[data-filename$=".php"]:before {
   content: '\E068';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".php.inc"]:before {
+.filetype-icon[data-filename$=".php.inc"]:before {
   content: '\E068';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".pddl"]:before {
+.filetype-icon[data-filename$=".pddl"]:before {
   content: '\E064';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".plan"]:before {
+.filetype-icon[data-filename$=".plan"]:before {
   content: '\E069';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".happenings"]:before {
+.filetype-icon[data-filename$=".happenings"]:before {
   content: '\E03D';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ps1"]:before {
+.filetype-icon[data-filename$=".ps1"]:before {
   content: '\E06B';
   color: #519aba;
 }
-.filetype-icon[data-name$=".psd1"]:before {
+.filetype-icon[data-filename$=".psd1"]:before {
   content: '\E06B';
   color: #519aba;
 }
-.filetype-icon[data-name$=".psm1"]:before {
+.filetype-icon[data-filename$=".psm1"]:before {
   content: '\E06B';
   color: #519aba;
 }
-.filetype-icon[data-name$=".pug"]:before {
+.filetype-icon[data-filename$=".pug"]:before {
   content: '\E06D';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".pp"]:before {
+.filetype-icon[data-filename$=".pp"]:before {
   content: '\E06E';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".epp"]:before {
+.filetype-icon[data-filename$=".epp"]:before {
   content: '\E06E';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".py"]:before {
+.filetype-icon[data-filename$=".py"]:before {
   content: '\E06F';
   color: #519aba;
 }
-.filetype-icon[data-name$=".jsx"]:before {
+.filetype-icon[data-filename$=".jsx"]:before {
   content: '\E071';
   color: #519aba;
 }
-.filetype-icon[data-name$=".spec.jsx"]:before {
+.filetype-icon[data-filename$=".spec.jsx"]:before {
   content: '\E071';
   color: #e37933;
 }
-.filetype-icon[data-name$=".test.jsx"]:before {
+.filetype-icon[data-filename$=".test.jsx"]:before {
   content: '\E071';
   color: #e37933;
 }
-.filetype-icon[data-name$=".cjsx"]:before {
+.filetype-icon[data-filename$=".cjsx"]:before {
   content: '\E071';
   color: #519aba;
 }
-.filetype-icon[data-name$=".tsx"]:before {
+.filetype-icon[data-filename$=".tsx"]:before {
   content: '\E071';
   color: #519aba;
 }
-.filetype-icon[data-name$=".spec.tsx"]:before {
+.filetype-icon[data-filename$=".spec.tsx"]:before {
   content: '\E071';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".test.tsx"]:before {
+.filetype-icon[data-filename$=".test.tsx"]:before {
   content: '\E071';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".re"]:before {
+.filetype-icon[data-filename$=".re"]:before {
   content: '\E072';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".R"]:before {
+.filetype-icon[data-filename$=".R"]:before {
   content: '\E001';
   color: #519aba;
 }
-.filetype-icon[data-name$=".rb"]:before {
+.filetype-icon[data-filename$=".rb"]:before {
   content: '\E074';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".erb"]:before {
+.filetype-icon[data-filename$=".erb"]:before {
   content: '\E043';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".erb.html"]:before {
+.filetype-icon[data-filename$=".erb.html"]:before {
   content: '\E043';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".html.erb"]:before {
+.filetype-icon[data-filename$=".html.erb"]:before {
   content: '\E043';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".rs"]:before {
+.filetype-icon[data-filename$=".rs"]:before {
   content: '\E075';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".sass"]:before {
+.filetype-icon[data-filename$=".sass"]:before {
   content: '\E077';
   color: #f55385;
 }
-.filetype-icon[data-name$=".scss"]:before {
+.filetype-icon[data-filename$=".scss"]:before {
   content: '\E077';
   color: #f55385;
 }
-.filetype-icon[data-name$=".springBeans"]:before {
+.filetype-icon[data-filename$=".springBeans"]:before {
   content: '\E07F';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".slim"]:before {
+.filetype-icon[data-filename$=".slim"]:before {
   content: '\E07D';
   color: #e37933;
 }
-.filetype-icon[data-name$=".smarty.tpl"]:before {
+.filetype-icon[data-filename$=".smarty.tpl"]:before {
   content: '\E07E';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".sbt"]:before {
+.filetype-icon[data-filename$=".sbt"]:before {
   content: '\E078';
   color: #519aba;
 }
-.filetype-icon[data-name$=".scala"]:before {
+.filetype-icon[data-filename$=".scala"]:before {
   content: '\E079';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".sol"]:before {
+.filetype-icon[data-filename$=".sol"]:before {
   content: '\E029';
   color: #519aba;
 }
-.filetype-icon[data-name$=".styl"]:before {
+.filetype-icon[data-filename$=".styl"]:before {
   content: '\E081';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".swift"]:before {
+.filetype-icon[data-filename$=".swift"]:before {
   content: '\E084';
   color: #e37933;
 }
-.filetype-icon[data-name$=".sql"]:before {
+.filetype-icon[data-filename$=".sql"]:before {
   content: '\E01E';
   color: #f55385;
 }
-.filetype-icon[data-name$=".tf"]:before {
+.filetype-icon[data-filename$=".tf"]:before {
   content: '\E085';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".tf.json"]:before {
+.filetype-icon[data-filename$=".tf.json"]:before {
   content: '\E085';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".tfvars"]:before {
+.filetype-icon[data-filename$=".tfvars"]:before {
   content: '\E085';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".tex"]:before {
+.filetype-icon[data-filename$=".tex"]:before {
   content: '\E086';
   color: #519aba;
 }
-.filetype-icon[data-name$=".sty"]:before {
+.filetype-icon[data-filename$=".sty"]:before {
   content: '\E086';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".dtx"]:before {
+.filetype-icon[data-filename$=".dtx"]:before {
   content: '\E086';
   color: #e37933;
 }
-.filetype-icon[data-name$=".ins"]:before {
+.filetype-icon[data-filename$=".ins"]:before {
   content: '\E086';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".txt"]:before {
+.filetype-icon[data-filename$=".txt"]:before {
   content: '\E01F';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".toml"]:before {
+.filetype-icon[data-filename$=".toml"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".twig"]:before {
+.filetype-icon[data-filename$=".twig"]:before {
   content: '\E08A';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".ts"]:before {
+.filetype-icon[data-filename$=".ts"]:before {
   content: '\E08B';
   color: #519aba;
 }
-.filetype-icon[data-name$=".spec.ts"]:before {
+.filetype-icon[data-filename$=".spec.ts"]:before {
   content: '\E08B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".test.ts"]:before {
+.filetype-icon[data-filename$=".test.ts"]:before {
   content: '\E08B';
   color: #cbcb41;
 }
-.filetype-icon[data-name$="tsconfig.json"]:before {
+.filetype-icon[data-filename$="tsconfig.json"]:before {
   content: '\E089';
   color: #519aba;
 }
-.filetype-icon[data-name$=".vala"]:before {
+.filetype-icon[data-filename$=".vala"]:before {
   content: '\E08C';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".vapi"]:before {
+.filetype-icon[data-filename$=".vapi"]:before {
   content: '\E08C';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".vue"]:before {
+.filetype-icon[data-filename$=".vue"]:before {
   content: '\E08E';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".wasm"]:before {
+.filetype-icon[data-filename$=".wasm"]:before {
   content: '\E08F';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".wat"]:before {
+.filetype-icon[data-filename$=".wat"]:before {
   content: '\E090';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".xml"]:before {
+.filetype-icon[data-filename$=".xml"]:before {
   content: '\E096';
   color: #e37933;
 }
-.filetype-icon[data-name$=".yml"]:before {
+.filetype-icon[data-filename$=".yml"]:before {
   content: '\E098';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".yaml"]:before {
+.filetype-icon[data-filename$=".yaml"]:before {
   content: '\E098';
   color: #a074c4;
 }
-.filetype-icon[data-name$="swagger.json"]:before {
+.filetype-icon[data-filename$="swagger.json"]:before {
   content: '\E04F';
   color: #8dc149;
 }
-.filetype-icon[data-name$="swagger.yml"]:before {
+.filetype-icon[data-filename$="swagger.yml"]:before {
   content: '\E04F';
   color: #8dc149;
 }
-.filetype-icon[data-name$="swagger.yaml"]:before {
+.filetype-icon[data-filename$="swagger.yaml"]:before {
   content: '\E04F';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".jar"]:before {
+.filetype-icon[data-filename$=".jar"]:before {
   content: '\E099';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".zip"]:before {
+.filetype-icon[data-filename$=".zip"]:before {
   content: '\E099';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".wgt"]:before {
+.filetype-icon[data-filename$=".wgt"]:before {
   content: '\E092';
   color: #519aba;
 }
-.filetype-icon[data-name$=".ai"]:before {
+.filetype-icon[data-filename$=".ai"]:before {
   content: '\E045';
   color: #cbcb41;
 }
-.filetype-icon[data-name$=".psd"]:before {
+.filetype-icon[data-filename$=".psd"]:before {
   content: '\E067';
   color: #519aba;
 }
-.filetype-icon[data-name$=".pdf"]:before {
+.filetype-icon[data-filename$=".pdf"]:before {
   content: '\E065';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".eot"]:before {
+.filetype-icon[data-filename$=".eot"]:before {
   content: '\E02F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".ttf"]:before {
+.filetype-icon[data-filename$=".ttf"]:before {
   content: '\E02F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".woff"]:before {
+.filetype-icon[data-filename$=".woff"]:before {
   content: '\E02F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".woff2"]:before {
+.filetype-icon[data-filename$=".woff2"]:before {
   content: '\E02F';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".gif"]:before {
+.filetype-icon[data-filename$=".gif"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".jpg"]:before {
+.filetype-icon[data-filename$=".jpg"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".jpeg"]:before {
+.filetype-icon[data-filename$=".jpeg"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".png"]:before {
+.filetype-icon[data-filename$=".png"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".pxm"]:before {
+.filetype-icon[data-filename$=".pxm"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".svg"]:before {
+.filetype-icon[data-filename$=".svg"]:before {
   content: '\E083';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".svgx"]:before {
+.filetype-icon[data-filename$=".svgx"]:before {
   content: '\E046';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".sublime-project"]:before {
+.filetype-icon[data-filename$=".sublime-project"]:before {
   content: '\E082';
   color: #e37933;
 }
-.filetype-icon[data-name$=".sublime-workspace"]:before {
+.filetype-icon[data-filename$=".sublime-workspace"]:before {
   content: '\E082';
   color: #e37933;
 }
-.filetype-icon[data-name$=".component"]:before {
+.filetype-icon[data-filename$=".component"]:before {
   content: '\E076';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cls"]:before {
+.filetype-icon[data-filename$=".cls"]:before {
   content: '\E076';
   color: #519aba;
 }
-.filetype-icon[data-name$=".sh"]:before {
+.filetype-icon[data-filename$=".sh"]:before {
   content: '\E07C';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".zsh"]:before {
+.filetype-icon[data-filename$=".zsh"]:before {
   content: '\E07C';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".fish"]:before {
+.filetype-icon[data-filename$=".fish"]:before {
   content: '\E07C';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".zshrc"]:before {
+.filetype-icon[data-filename$=".zshrc"]:before {
   content: '\E07C';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".bashrc"]:before {
+.filetype-icon[data-filename$=".bashrc"]:before {
   content: '\E07C';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".mov"]:before {
+.filetype-icon[data-filename$=".mov"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".ogv"]:before {
+.filetype-icon[data-filename$=".ogv"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".webm"]:before {
+.filetype-icon[data-filename$=".webm"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".avi"]:before {
+.filetype-icon[data-filename$=".avi"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".mpg"]:before {
+.filetype-icon[data-filename$=".mpg"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".mp4"]:before {
+.filetype-icon[data-filename$=".mp4"]:before {
   content: '\E08D';
   color: #f55385;
 }
-.filetype-icon[data-name$=".mp3"]:before {
+.filetype-icon[data-filename$=".mp3"]:before {
   content: '\E005';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".ogg"]:before {
+.filetype-icon[data-filename$=".ogg"]:before {
   content: '\E005';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".wav"]:before {
+.filetype-icon[data-filename$=".wav"]:before {
   content: '\E005';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".flac"]:before {
+.filetype-icon[data-filename$=".flac"]:before {
   content: '\E005';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".3ds"]:before {
+.filetype-icon[data-filename$=".3ds"]:before {
   content: '\E083';
   color: #519aba;
 }
-.filetype-icon[data-name$=".3dm"]:before {
+.filetype-icon[data-filename$=".3dm"]:before {
   content: '\E083';
   color: #519aba;
 }
-.filetype-icon[data-name$=".stl"]:before {
+.filetype-icon[data-filename$=".stl"]:before {
   content: '\E083';
   color: #519aba;
 }
-.filetype-icon[data-name$=".obj"]:before {
+.filetype-icon[data-filename$=".obj"]:before {
   content: '\E083';
   color: #519aba;
 }
-.filetype-icon[data-name$=".dae"]:before {
+.filetype-icon[data-filename$=".dae"]:before {
   content: '\E083';
   color: #519aba;
 }
-.filetype-icon[data-name$=".bat"]:before {
+.filetype-icon[data-filename$=".bat"]:before {
   content: '\E093';
   color: #519aba;
 }
-.filetype-icon[data-name$=".cmd"]:before {
+.filetype-icon[data-filename$=".cmd"]:before {
   content: '\E093';
   color: #519aba;
 }
-.filetype-icon[data-name$="mime.types"]:before {
+.filetype-icon[data-filename$="mime.types"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$="Jenkinsfile"]:before {
+.filetype-icon[data-filename$="Jenkinsfile"]:before {
   content: '\E04C';
   color: #cc3e44;
 }
-.filetype-icon[data-name$=".babelrc"]:before {
+.filetype-icon[data-filename$=".babelrc"]:before {
   content: '\E006';
   color: #cbcb41;
 }
-.filetype-icon[data-name$="bower.json"]:before {
+.filetype-icon[data-filename$="bower.json"]:before {
   content: '\E007';
   color: #e37933;
 }
-.filetype-icon[data-name$="Bower.json"]:before {
+.filetype-icon[data-filename$="Bower.json"]:before {
   content: '\E007';
   color: #e37933;
 }
-.filetype-icon[data-name$=".bowerrc"]:before {
+.filetype-icon[data-filename$=".bowerrc"]:before {
   content: '\E007';
   color: #e37933;
 }
-.filetype-icon[data-name$="dockerfile"]:before {
+.filetype-icon[data-filename$="dockerfile"]:before {
   content: '\E021';
   color: #519aba;
 }
-.filetype-icon[data-name$="Dockerfile"]:before {
+.filetype-icon[data-filename$="Dockerfile"]:before {
   content: '\E021';
   color: #519aba;
 }
-.filetype-icon[data-name$="DOCKERFILE"]:before {
+.filetype-icon[data-filename$="DOCKERFILE"]:before {
   content: '\E021';
   color: #519aba;
 }
-.filetype-icon[data-name$=".dockerignore"]:before {
+.filetype-icon[data-filename$=".dockerignore"]:before {
   content: '\E021';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$="docker-healthcheck"]:before {
+.filetype-icon[data-filename$="docker-healthcheck"]:before {
   content: '\E021';
   color: #8dc149;
 }
-.filetype-icon[data-name$="docker-compose.yml"]:before {
+.filetype-icon[data-filename$="docker-compose.yml"]:before {
   content: '\E021';
   color: #f55385;
 }
-.filetype-icon[data-name$="docker-compose.yaml"]:before {
+.filetype-icon[data-filename$="docker-compose.yaml"]:before {
   content: '\E021';
   color: #f55385;
 }
-.filetype-icon[data-name$="docker-compose.override.yml"]:before {
+.filetype-icon[data-filename$="docker-compose.override.yml"]:before {
   content: '\E021';
   color: #f55385;
 }
-.filetype-icon[data-name$="docker-compose.override.yaml"]:before {
+.filetype-icon[data-filename$="docker-compose.override.yaml"]:before {
   content: '\E021';
   color: #f55385;
 }
-.filetype-icon[data-name$=".codeclimate.yml"]:before {
+.filetype-icon[data-filename$=".codeclimate.yml"]:before {
   content: '\E012';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".eslintrc"]:before {
+.filetype-icon[data-filename$=".eslintrc"]:before {
   content: '\E028';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".eslintrc.js"]:before {
+.filetype-icon[data-filename$=".eslintrc.js"]:before {
   content: '\E028';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".eslintrc.yaml"]:before {
+.filetype-icon[data-filename$=".eslintrc.yaml"]:before {
   content: '\E028';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".eslintrc.yml"]:before {
+.filetype-icon[data-filename$=".eslintrc.yml"]:before {
   content: '\E028';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".eslintrc.json"]:before {
+.filetype-icon[data-filename$=".eslintrc.json"]:before {
   content: '\E028';
   color: #a074c4;
 }
-.filetype-icon[data-name$=".eslintignore"]:before {
+.filetype-icon[data-filename$=".eslintignore"]:before {
   content: '\E028';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$=".firebaserc"]:before {
+.filetype-icon[data-filename$=".firebaserc"]:before {
   content: '\E02C';
   color: #e37933;
 }
-.filetype-icon[data-name$="firebase.json"]:before {
+.filetype-icon[data-filename$="firebase.json"]:before {
   content: '\E02C';
   color: #e37933;
 }
-.filetype-icon[data-name$="geckodriver"]:before {
+.filetype-icon[data-filename$="geckodriver"]:before {
   content: '\E02D';
   color: #e37933;
 }
-.filetype-icon[data-name$="Gruntfile.js"]:before {
+.filetype-icon[data-filename$="Gruntfile.js"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="gruntfile.babel.js"]:before {
+.filetype-icon[data-filename$="gruntfile.babel.js"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="Gruntfile.babel.js"]:before {
+.filetype-icon[data-filename$="Gruntfile.babel.js"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="gruntfile.js"]:before {
+.filetype-icon[data-filename$="gruntfile.js"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="Gruntfile.coffee"]:before {
+.filetype-icon[data-filename$="Gruntfile.coffee"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="gruntfile.coffee"]:before {
+.filetype-icon[data-filename$="gruntfile.coffee"]:before {
   content: '\E039';
   color: #e37933;
 }
-.filetype-icon[data-name$="GULPFILE"]:before {
+.filetype-icon[data-filename$="GULPFILE"]:before {
   content: '\E03A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$="Gulpfile"]:before {
+.filetype-icon[data-filename$="Gulpfile"]:before {
   content: '\E03A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$="gulpfile"]:before {
+.filetype-icon[data-filename$="gulpfile"]:before {
   content: '\E03A';
   color: #cc3e44;
 }
-.filetype-icon[data-name$="ionic.config.json"]:before {
+.filetype-icon[data-filename$="ionic.config.json"]:before {
   content: '\E048';
   color: #519aba;
 }
-.filetype-icon[data-name$="Ionic.config.json"]:before {
+.filetype-icon[data-filename$="Ionic.config.json"]:before {
   content: '\E048';
   color: #519aba;
 }
-.filetype-icon[data-name$="ionic.project"]:before {
+.filetype-icon[data-filename$="ionic.project"]:before {
   content: '\E048';
   color: #519aba;
 }
-.filetype-icon[data-name$="Ionic.project"]:before {
+.filetype-icon[data-filename$="Ionic.project"]:before {
   content: '\E048';
   color: #519aba;
 }
-.filetype-icon[data-name$=".jshintrc"]:before {
+.filetype-icon[data-filename$=".jshintrc"]:before {
   content: '\E04B';
   color: #519aba;
 }
-.filetype-icon[data-name$=".jscsrc"]:before {
+.filetype-icon[data-filename$=".jscsrc"]:before {
   content: '\E04B';
   color: #519aba;
 }
-.filetype-icon[data-name$="platformio.ini"]:before {
+.filetype-icon[data-filename$="platformio.ini"]:before {
   content: '\E06A';
   color: #e37933;
 }
-.filetype-icon[data-name$="rollup.config.js"]:before {
+.filetype-icon[data-filename$="rollup.config.js"]:before {
   content: '\E073';
   color: #cc3e44;
 }
-.filetype-icon[data-name$="sass-lint.yml"]:before {
+.filetype-icon[data-filename$="sass-lint.yml"]:before {
   content: '\E077';
   color: #f55385;
 }
-.filetype-icon[data-name$=".stylelintrc"]:before {
+.filetype-icon[data-filename$=".stylelintrc"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".stylelintrc.json"]:before {
+.filetype-icon[data-filename$=".stylelintrc.json"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".stylelintrc.yaml"]:before {
+.filetype-icon[data-filename$=".stylelintrc.yaml"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".stylelintrc.yml"]:before {
+.filetype-icon[data-filename$=".stylelintrc.yml"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".stylelintrc.js"]:before {
+.filetype-icon[data-filename$=".stylelintrc.js"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$=".stylelintignore"]:before {
+.filetype-icon[data-filename$=".stylelintignore"]:before {
   content: '\E080';
   color: #4d5a5e;
 }
-.filetype-icon[data-name$="stylelint.config.js"]:before {
+.filetype-icon[data-filename$="stylelint.config.js"]:before {
   content: '\E080';
   color: #d4d7d6;
 }
-.filetype-icon[data-name$="yarn.clean"]:before {
+.filetype-icon[data-filename$="yarn.clean"]:before {
   content: '\E097';
   color: #519aba;
 }
-.filetype-icon[data-name$="yarn.lock"]:before {
+.filetype-icon[data-filename$="yarn.lock"]:before {
   content: '\E097';
   color: #519aba;
 }
-.filetype-icon[data-name$="webpack.config.js"]:before {
+.filetype-icon[data-filename$="webpack.config.js"]:before {
   content: '\E091';
   color: #519aba;
 }
-.filetype-icon[data-name$="webpack.config.build.js"]:before {
+.filetype-icon[data-filename$="webpack.config.build.js"]:before {
   content: '\E091';
   color: #519aba;
 }
-.filetype-icon[data-name$="webpack.common.js"]:before {
+.filetype-icon[data-filename$="webpack.common.js"]:before {
   content: '\E091';
   color: #519aba;
 }
-.filetype-icon[data-name$="webpack.dev.js"]:before {
+.filetype-icon[data-filename$="webpack.dev.js"]:before {
   content: '\E091';
   color: #519aba;
 }
-.filetype-icon[data-name$="webpack.prod.js"]:before {
+.filetype-icon[data-filename$="webpack.prod.js"]:before {
   content: '\E091';
   color: #519aba;
 }
-.filetype-icon[data-name$=".direnv"]:before {
+.filetype-icon[data-filename$=".direnv"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".env"]:before {
+.filetype-icon[data-filename$=".env"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".static"]:before {
+.filetype-icon[data-filename$=".static"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".editorconfig"]:before {
+.filetype-icon[data-filename$=".editorconfig"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".slugignore"]:before {
+.filetype-icon[data-filename$=".slugignore"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".tmp"]:before {
+.filetype-icon[data-filename$=".tmp"]:before {
   content: '\E010';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".htaccess"]:before {
+.filetype-icon[data-filename$=".htaccess"]:before {
   content: '\E016';
   color: #6d8086;
 }
-.filetype-icon[data-name$=".key"]:before {
+.filetype-icon[data-filename$=".key"]:before {
   content: '\E057';
   color: #8dc149;
 }
-.filetype-icon[data-name$=".cert"]:before {
+.filetype-icon[data-filename$=".cert"]:before {
   content: '\E057';
   color: #8dc149;
 }
-.filetype-icon[data-name$="LICENSE"]:before {
+.filetype-icon[data-filename$="LICENSE"]:before {
   content: '\E054';
   color: #cbcb41;
 }
-.filetype-icon[data-name$="LICENCE"]:before {
+.filetype-icon[data-filename$="LICENCE"]:before {
   content: '\E054';
   color: #cbcb41;
 }
-.filetype-icon[data-name$="COPYING"]:before {
+.filetype-icon[data-filename$="COPYING"]:before {
   content: '\E054';
   color: #cbcb41;
 }
-.filetype-icon[data-name$="COMPILING"]:before {
+.filetype-icon[data-filename$="COMPILING"]:before {
   content: '\E054';
   color: #e37933;
 }
-.filetype-icon[data-name$="CONTRIBUTING"]:before {
+.filetype-icon[data-filename$="CONTRIBUTING"]:before {
   content: '\E054';
   color: #cc3e44;
 }
-.filetype-icon[data-name$="MAKEFILE"]:before {
+.filetype-icon[data-filename$="MAKEFILE"]:before {
   content: '\E059';
   color: #e37933;
 }
-.filetype-icon[data-name$="Makefile"]:before {
+.filetype-icon[data-filename$="Makefile"]:before {
   content: '\E059';
   color: #e37933;
 }
-.filetype-icon[data-name$="makefile"]:before {
+.filetype-icon[data-filename$="makefile"]:before {
   content: '\E059';
   color: #e37933;
 }
-.filetype-icon[data-name$="QMAKEFILE"]:before {
+.filetype-icon[data-filename$="QMAKEFILE"]:before {
   content: '\E059';
   color: #a074c4;
 }
-.filetype-icon[data-name$="QMakefile"]:before {
+.filetype-icon[data-filename$="QMakefile"]:before {
   content: '\E059';
   color: #a074c4;
 }
-.filetype-icon[data-name$="qmakefile"]:before {
+.filetype-icon[data-filename$="qmakefile"]:before {
   content: '\E059';
   color: #a074c4;
 }
-.filetype-icon[data-name$="OMAKEFILE"]:before {
+.filetype-icon[data-filename$="OMAKEFILE"]:before {
   content: '\E059';
   color: #6d8086;
 }
-.filetype-icon[data-name$="OMakefile"]:before {
+.filetype-icon[data-filename$="OMakefile"]:before {
   content: '\E059';
   color: #6d8086;
 }
-.filetype-icon[data-name$="omakefile"]:before {
+.filetype-icon[data-filename$="omakefile"]:before {
   content: '\E059';
   color: #6d8086;
 }
-.filetype-icon[data-name$="CMAKELISTS.TXT"]:before {
+.filetype-icon[data-filename$="CMAKELISTS.TXT"]:before {
   content: '\E059';
   color: #519aba;
 }
-.filetype-icon[data-name$="CMAKELISTS.txt"]:before {
+.filetype-icon[data-filename$="CMAKELISTS.txt"]:before {
   content: '\E059';
   color: #519aba;
 }
-.filetype-icon[data-name$="CMakeLists.txt"]:before {
+.filetype-icon[data-filename$="CMakeLists.txt"]:before {
   content: '\E059';
   color: #519aba;
 }
-.filetype-icon[data-name$="cmakelists.txt"]:before {
+.filetype-icon[data-filename$="cmakelists.txt"]:before {
   content: '\E059';
   color: #519aba;
 }
-.filetype-icon[data-name$="Procfile"]:before {
+.filetype-icon[data-filename$="Procfile"]:before {
   content: '\E040';
   color: #a074c4;
 }
-.filetype-icon[data-name$="TODO"]:before {
+.filetype-icon[data-filename$="TODO"]:before {
   content: '\E088';
   color: #519aba;
 }
-.filetype-icon[data-name$="npm-debug.log"]:before {
+.filetype-icon[data-filename$="npm-debug.log"]:before {
   content: '\E060';
   color: #41535b;
 }
-.filetype-icon[data-name$=".DS_Store"]:before {
+.filetype-icon[data-filename$=".DS_Store"]:before {
   content: '\E044';
   color: #41535b;
 }

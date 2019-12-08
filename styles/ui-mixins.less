@@ -1,7 +1,7 @@
 // SET ICON FILE BASED ON DATA NAME
 .icon-set( @extension, @file, @color) {
 
-  .filetype-icon[data-name$="@{extension}"] {
+  .filetype-icon[data-filename$="@{extension}"] {
     .icon(@file, @color)
   }
 
@@ -10,7 +10,7 @@
 // SET ICON FILE BASED ON DATA NAME
 .icon-partial( @extension, @file, @color) {
 
-  .filetype-icon[data-name$="@{extension}"] {
+  .filetype-icon[data-filename$="@{extension}"] {
     .icon(@file, @color)
   }
 

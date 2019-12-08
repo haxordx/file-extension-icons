@@ -27,7 +27,7 @@
       let icons = '';
 
       data.forEach(function(item, i){
-        icons += '<div class="col-md-3"><div class="filetype-icon" data-name="' + item + '">' + item + '</div></div>';
+        icons += '<div class="col-md-3"><div class="filetype-icon" data-filename="' + item + '">' + item + '</div></div>';
       });
 
       $('#icon-list').append($(icons));
