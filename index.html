@@ -1,9 +1,38 @@
 <!DOCTYPE html>
 <head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="index.css"/>
+  <style>
+    body {
+      background-color: #111;
+      color: #888;
+    }
+    .filetype-icon:before {
+      font-size: 36px;
+      position: relative;
+      top: 11px;
+    }
+  </style>
 </head>
 <body>
-  <div class="seti-icons">
-    <div class="icon" data-name="myfile.mpg">my file</div>
+  <div class="container">
+    <div id="icon-list" class="row"></div>
   </div>
+  <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $.getJSON("file-types.json", function (data) {
+      
+      let icons = '';
+
+      data.forEach(function(item, i){
+        icons += '<div class="col-md-3"><div class="filetype-icon" data-name="' + item + '">' + item + '</div></div>';
+      });
+
+      $('#icon-list').append($(icons));
+
+    });
+  });
+  </script>
 </body>
